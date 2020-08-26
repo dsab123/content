@@ -2,6 +2,7 @@ I’ve just read a fascinating book!
 
 
 Untangling Emotions, by J. Alasdair Groves and Winston T. Smith, tries to tackle the not-enough-discussed topic of emotions from a biblical worldview, and aims to “show us how to properly engage with out emotions — even the more difficult ones like fear, anger, shame, guilt, and sorrow — so that we can better understand what they revel about our hearts and handle them wisely in everyday moments.”  
+<br>
 
 Both authors seem well-credentialed for the task; Groves is the executive director for the New England branch of the Christian Counseling & Educational Foundation (CCEF), while Smith is the rector of Saint Anne’s Church in Abington, Pennsylvania. Both have received MDiv’s from Westminster Theological Seminary. Their reformed perspective comes out in the book, possibly no stronger than in their import of the Augustinian “disordered loves” paradigm. They also hold strongly to the Imago Dei, the teaching that humans are made in the image of God and thus share some of His attributes.  
 
