@@ -86,10 +86,13 @@ Reinke gives four reasons why words are better suited for communication than ima
 2. Language best communicates invisible realities.
     -   “Words take you by the hand down to the depths of the human soul and up to the heights of an unseen eternity.” ❤️
     -   This can be illustrated in the history of the Roman Catholic church, which attempted to teach the illiterate masses through the use and worship of images, relics, and icons. The people needed words, namely the preached word, in order to benefit spiritually. The Reformation was “a recovery of the biblical centrality of words."
+<br>
+
 3.  Language best informs our Eternal Hope
     -   “Because language enables us to believe in the unseen (previous point), language makes faith possible."
 4.  Language makes worldview possible
     -   “Our lives cannot find context through images.” And this context is what our worldview should be. Images are snapshots. You can’t build a very good movie from snapshots (theoretically, this isn’t so true; but this analogy is mine, not Reinke’s).
+<br>
 
 “As a word-centered people we must learn to prize language in a visually dominated world. If out hearts prioritize images over language, our hunger for books will erode.” This is the trajectory-of-your-life stuff he mentioned earlier.
 <br>
@@ -118,14 +121,26 @@ To establish the rudimentary bearings of a Biblical worldview, Reinke asks and a
     -   God is self-subsisting
     -   God is self-sufficient
     -   God is all-sufficient
+<br>
+
 -   Does Truth Exist?
     -   “Jesus Christ is the eternal truth… He is the point where God, man, words, meaning, reality, and truth all converge."
+<br>
+
 -   Where Did Our World Come From?
+<br>
+
 -   What Went Wrong With Our World?
+<br>
+
 -   Who Are We?
     -   “Man is ‘both the glory and the garbage of the universe.’"
     -   “‘We are Rembrandt and Hitler, Mozart and Stalin, Antigone and Lady Macbeth, Ruth and Jezebel.’ Evidence for the glory and man, and for the sinful garbage of man, can be found throughout Scripture."
+<br>
+
 -   What Is The Solution To Our Problem?
+<br>
+
 -   Where Is The World Headed?
 
 “The Biblical Worldview is like a touchstone to determine the value of gold.” If we want to be good gatekeepers of our souls, we must consider all that we read in light of the points of our worldview.  
@@ -168,16 +183,28 @@ If we broad-brush all secular books as worldly and as having nothing to offer us
 The Seven Benefits:
 1.  Non-Christian Literature can describe the world, how it functions, and how to subdue it
     -   This skill is given to all humankind, not just Christians
+<br>
+
 2.  Non-Christian books highlight the common life experiences
     -   “We can read and appreciate the human-ness of Christian Literature."
+<br>
+
 3.  Non-Christian Books can expose the human heart  
+<br>
+
 4.  Non-Christian Books can teach us wisdom and valuable moral lessons
     -   “The holy nation of Israel in the OT made use of the available pagan wisdom”, as evidenced in the Epic of Gilgamesh and Paul’s sermon in Acts 17
+<br>
+
 5.  Non-Christian Books can capture beauty
     -   “'Literature and art are God’s gifts to the human race,'” writes literature scholar Leland Ryken. ‘One of the liberating effects of letting ourselves ‘’go’’ as we enjoy literature is to realize that we can partly affirm the value of literature whose content or worldview we dislike. If God is the ultimate source of all beauty and artistry, then the artistic dimension of literature is the point at which Christians can be unreserved in their enthusiasm for the works of non-Christian writers.' … Our freedom to enjoy the aesthetic beauty of non-Christian literature does not require us to first endorse the author’s worldview or ethical choices."
+<br>
+
 6.  Non-Christian Literature begs questions that can only be resolved in Christ (this seems a continuation of benefit 3)
     -   Even though pagan practices are, well, pagan, there is an element of truth and a “genuine spiritual impulse to worship.” Writes Bavinck, "‘Christianity is not only positioned antithetically toward paganism; it is also paganism’s fuilfillment.’"
     -   Therefore its not good to _only_ position ourselves antithetically to non-Christian impulses of our culture.
+<br>
+
 7.  Non-Christian Books can echo spiritual truth and edify the soul
     -   Basil and Augustine encouraged secular learning, and to glean the truth from those worldviews; since Christianity is all truth, the truth that the pagans come up with is better suited to fit in a Christian worldview.
     -   Calvin critiques one of Plato’s prayers to King Jupiter: “King Jupiter, bestow the best things upon us whether we wish for them or not, but command that evil things be far from us even when we request them.” “Plato laments that his own prayers to the mythical god Jupiter were ironically self-defeating.” Calvin says, “The heathen man is wise in that he judges how dangerous is it to seek from the Lord what our greed dictates; at the same time he discloses our unhappiness, in that we cannot even open our mouths before God without danger unless the Spirit instructs us in the right pattern for prayer."
