@@ -1,4 +1,4 @@
-“The motto of the reading Christian is a dazzling doxology: ‘In Your light we see light.’ (Psalm 36:9)"
+“The motto of the reading Christian is a dazzling doxology: ‘In Your light we see light.’ (Psalm 36:9)" 
 
 ### Chapter 1: Paper Pulp and Etched Granite: Laying the cornerstone of our theology of books
 
