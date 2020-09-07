@@ -1,5 +1,5 @@
 “The motto of the reading Christian is a dazzling doxology: ‘In Your light we see light.’ (Psalm 36:9)" 
-
+<br>
 ### Chapter 1: Paper Pulp and Etched Granite: Laying the cornerstone of our theology of books
 
 The goal of this chapter is to give us a properly high view of Scripture, which Reinke calls the ‘Etched Granite’, over and above the uninspired works of men, dubbed ‘Paper Pulp.'
