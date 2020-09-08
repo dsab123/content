@@ -1,5 +1,6 @@
 
-![post_image](2ecabb31b519208635a25f9cf0232888.jpg "Look at this majestic bookshelf | 
+![post_image](2ecabb31b519208635a25f9cf0232888.jpg "Look at this majestic bookshelf
+
  and yes my wife went to Liberty")
 <br>
 So, I have awesome friends who got me Calvin’s complete commentary set in print as a wedding gift. Thanks, Grace-Growers! 😍
