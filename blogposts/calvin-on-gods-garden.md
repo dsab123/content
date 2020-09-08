@@ -21,33 +21,33 @@ In that day,
 <br>
 “A pleasant vineyard, sing of it!
 <br>
-&nbsp; I, the LORD, am its keeper;
+&nbsp; &nbsp; I, the LORD, am its keeper;
 <br>
-&nbsp; every moment I water it.
+&nbsp; &nbsp; every moment I water it.
 <br>
-&nbsp; Lest anyone punish it,
+&nbsp; &nbsp; Lest anyone punish it,
 <br>
-&nbsp; I keep it night and day;
+&nbsp; &nbsp; I keep it night and day;
 <br>
-&nbsp; I have no wrath.
+&nbsp; &nbsp; I have no wrath.
 <br>
 Would that I had briars and thorns to battle!
 <br>
-&nbsp; I would march against them,
+&nbsp; &nbsp; I would march against them,
 <br>
-&nbsp; I would burn them up together.
+&nbsp; &nbsp; I would burn them up together.
 <br>
 Or let them lay hold of my protection,
 <br>
-&nbsp; let them make peace with me,
+&nbsp; &nbsp; let them make peace with me,
 <br>
-&nbsp; let them make peace with me.”
+&nbsp; &nbsp; let them make peace with me.”
 <br>
 In days to come Jacob shall take root,
 <br>
-&nbsp; Israel shall blossom and put forth shoots
+&nbsp; &nbsp; Israel shall blossom and put forth shoots
 <br>
-&nbsp; and fill the whole world with fruit._
+&nbsp; &nbsp; and fill the whole world with fruit._
 <br>
 
 ## _From Serpent to Leviathan_
@@ -87,11 +87,11 @@ On the same day that Leviathan is destroyed, the Lord turns to his pleasant vine
 
 > _“The LORD your God is in your midst,
 <br>
-&nbsp;  a Mighty One who will save;
+&nbsp; &nbsp; a Mighty One who will save;
 <br>
 He will rejoice over you with gladness;
 <br>
-&nbsp;  He will quiet you by His love;
+&nbsp; &nbsp; He will quiet you by His love;
 <br>
 He will rejoice over you with loud singing.”_
 Zephaniah 3:17
