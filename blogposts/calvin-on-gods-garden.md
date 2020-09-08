@@ -1,5 +1,5 @@
 
-![Look at this majestic bookshelf](2ecabb31b519208635a25f9cf0232888.jpg)
+![Look at this majestic bookshelf](2ecabb31b519208635a25f9cf0232888.jpg =600x400)
 
 So, I have awesome friends who got me Calvin’s complete commentary set in print as a wedding gift. Thanks, Grace-Growers! 😍
 I had a wonderful reading in Isaiah 27:1–6 the other day, and Calvin’s notes sweetened the time of communion with the Lord.
@@ -9,38 +9,22 @@ Isaiah 27 has always been a favorite chapter of mine, as it likens God’s care 
 Let’s look at the passage together, gleaning from Calvin’s insights along the way.
 
 > _In that day the LORD with His hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and He will slay the dragon that is in the sea.
-<br>
 In that day, 
 “A pleasant vineyard, sing of it!
-<br>
 &nbsp; I, the LORD, am its keeper;
-<br>
 &nbsp; every moment I water it.
-<br>
 &nbsp; Lest anyone punish it,
-<br>
 &nbsp; I keep it night and day;
-<br>
 &nbsp; I have no wrath.
-<br>
 Would that I had briars and thorns to battle!
-<br>
 &nbsp; I would march against them,
-<br>
 &nbsp; I would burn them up together.
-<br>
 Or let them lay hold of my protection,
-<br>
 &nbsp; let them make peace with me,
-<br>
 &nbsp; let them make peace with me.”
-<br>
 In days to come Jacob shall take root,
-<br>
 &nbsp; Israel shall blossom and put forth shoots
-<br>
 &nbsp; and fill the whole world with fruit._
-
 <br>
 
 ## _From Serpent to Leviathan_
