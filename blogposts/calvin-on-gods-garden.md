@@ -5,26 +5,43 @@ So, I have awesome friends who got me Calvin’s complete commentary set in prin
 
 I had a wonderful reading in Isaiah 27:1–6 the other day, and Calvin’s notes sweetened the time of communion with the Lord.
 
+
 Isaiah 27 has always been a favorite chapter of mine, as it likens God’s care of His people to that of a strong, capable farmer over his tender garden. I love garden passages in the Bible, because they are reminiscent of the idyllic life in the Garden of Eden that begins the whole sweeping narrative of the Scriptures.
 
 Let’s look at the passage together, gleaning from Calvin’s insights along the way.
 
 > _In that day the LORD with His hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and He will slay the dragon that is in the sea.
-In that day, 
+<br>
+In that day,
+<br>
 “A pleasant vineyard, sing of it!
+<br>
 &nbsp; I, the LORD, am its keeper;
+<br>
 &nbsp; every moment I water it.
+<br>
 &nbsp; Lest anyone punish it,
+<br>
 &nbsp; I keep it night and day;
+<br>
 &nbsp; I have no wrath.
+<br>
 Would that I had briars and thorns to battle!
+<br>
 &nbsp; I would march against them,
+<br>
 &nbsp; I would burn them up together.
+<br>
 Or let them lay hold of my protection,
+<br>
 &nbsp; let them make peace with me,
+<br>
 &nbsp; let them make peace with me.”
+<br>
 In days to come Jacob shall take root,
+<br>
 &nbsp; Israel shall blossom and put forth shoots
+<br>
 &nbsp; and fill the whole world with fruit._
 <br>
 
@@ -39,18 +56,15 @@ The judgement of God, the rescue of His people, the destruction of evil forces a
 We should be encouraged, says he, that the Lord describes Satan’s power in these terms — because we’ve all experienced his strength. Strength to divide churches, strength to cause pain, strength to take life. How comforting to know that the Lord knows that Satan’s power is indeed a mighty force against the saints. “Wonderful are the stratagems with which he comes prepared for doing mischief, and dreadful the cruelty which he exercises against the children of God.” A similar comfort can be found in the intro to Jesus’s letter to the church in Pergamum:
 
 > _“I know where you dwell, where Satan’s throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.”_ 
-<br>
 Revelation 2:13
 
 Jesus Himself here acknowledges that the church lived in the same streets where Satan, in his kingdom and his strength, made his dwelling place. What a relief that the Lord knows our condition in this life, with its chronic assailment by the strong, sinewy forces that so easily entangle and rage against us. ❤️
-
 <br>
 
 ## _The LORD Draws the Sword_
 If Satan is a mighty, twisting dragon of the sea, then it befits the Lord to have "a hard and great and strong sword" with which to slay him. Calvin does not point this out, but here again we see another symbol from the Garden of Eden pop up — a strong and terrible sword! In Genesis 3, the sword was placed in the hand of the Cherubim as an agent of God to guard the sanctity of the garden: 
 
 > _... at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life._
-<br>
 Genesis 3:24
 <br>
  
@@ -71,7 +85,6 @@ He will rejoice over you with gladness;
 &nbsp;  He will quiet you by His love;
 <br>
 He will rejoice over you with loud singing.”_
-<br>
 Zephaniah 3:17
 
 And not only is God the joyful recipient of the fruit, He is the one who tends the garden that produces it. Calvin mentions the “two instances of His diligence, that He will ‘water it every moment’, and will defend it against the attacks of robbers and cattle and other annoyances. These are the two things chiefly required in preserving a vineyard, cultivation and protection.” And “though the vine may suffer many attacks, and though enemies and wild beasts may assail it with great violence, God declares that He will interpose to preserve it unhurt and free from all danger.” There is no wrath in Him towards His precious vineyard — “if we know that God has called us, we may justly conclude that He is not angry with us, and that, having embraced us with a firm and enduring regard, it is impossible that He shall ever deprive us of it.”
