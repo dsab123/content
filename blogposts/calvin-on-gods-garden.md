@@ -1,5 +1,5 @@
 
-<img src="2ecabb31b519208635a25f9cf0232888.jpg" class="post_image" alt="image of commentaries on bookshelf" title="Look at this majestic bookshelf">
+<img src="2ecabb31b519208635a25f9cf0232888.jpg" class="post-image" alt="image of commentaries on bookshelf" title="Look at this majestic bookshelf">
  
 <br>
 So, I have awesome friends who got me Calvin’s complete commentary set in print as a wedding gift. Thanks, Grace-Growers! 😍
