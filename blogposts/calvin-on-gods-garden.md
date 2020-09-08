@@ -1,5 +1,5 @@
 
-![Look at this majestic bookshelf](2ecabb31b519208635a25f9cf0232888.jpg =600x400)
+![Look at this majestic bookshelf](2ecabb31b519208635a25f9cf0232888.jpg)
 <br>
 So, I have awesome friends who got me Calvin’s complete commentary set in print as a wedding gift. Thanks, Grace-Growers! 😍
 <br>
