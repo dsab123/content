@@ -1,4 +1,4 @@
-<a href="https://amzn.to/3bJjxiS"><img src="fc81191abf9595965728e8a8a4295588.jpg" class="post-image" alt="image of commentaries on bookshelf" title="THIS BOOK IS AWESOME Taylor <3 I love you and miss you"></a>
+<a href="https://amzn.to/3bJjxiS"><img src="fc81191abf9595965728e8a8a4295588.jpg" class="post-image" target="_blank" alt="Prayer book" title="THIS BOOK IS AWESOME Taylor <3 I love you and miss you"></a>
 
 *Prayer* by Keller is a very helpful book that collects the thoughts of Calvin, Luther, and Augustine on the subject of Prayer.
 <br>
@@ -102,21 +102,24 @@ Luther's recommended beginning prayer (p 71):
 <br>
 
 ---------------
-## The Prayer of Prayers, an Exposition on the Lord’s Prayer by Augustine, Luther, Calvin (p 108ff):
+## The Prayer of Prayers, an Exposition on the Lord’s Prayer by Augustine, Luther, Calvin (p 108ff): 
 
 (A = Augustine, L = Luther, C = Calvin)
+<br>
+
 * “Our Father Who Art In Heaven"
+<br>
     * C: Calling God ‘Father’ means we are approaching Him as adopted “children of grace in Christ"
         * “‘By the great sweetness of this name [Father] He frees us from all distrust’"
     * L: This address calls us to pause and “realize our standing in Christ before we proceed"
         * He could be a severe judge over us, but because we are in Christ He is our loving Father
 <br>
 
-* “Hallowed Be Thy Name"
+* "Hallowed Be Thy Name" 
     * L: His Name is already holy, but we are praying here that we would regard it as such
     * L & A: This is a petition that God’s name would be glorified in the nations, as its glorified in His Children
     * C: “‘What is more unworthy than for God’s glory to be obscured partly by our ungratefulness?’"
-        * “We do not revere His name unless he ‘captivate[s] us with wonderment for Him.’"
+        * "We do not revere His name unless he ‘captivate[s] us with wonderment for Him.'"
 <br>
 
 * “Thy Kingdom Come"
