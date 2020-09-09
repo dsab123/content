@@ -42,11 +42,6 @@ Luther's recommended beginning prayer (p 71):
     - At morning, and at evening 
 <br>
 
-## Luther's "A Simple Way to Pray", a letter to exiled barber (p 89ff): 
-- Luther was a strong advocate of the cultivation of prayer as a habit through regular discipline 
-  - At morning, and at evening 
-<br>
-
 - Ways to focus our thoughts and to warm and engage our affections for prayer
 <br>
     - Reciting the Ten Commandments, words of Christ, or some other passage as meditation, a "kind of bridge" between formal Bible study and prayer
@@ -72,25 +67,24 @@ Luther's recommended beginning prayer (p 71):
 
 ---------------
 ## Calvin's Rules for Prayer (p 97ff):
-1. We must have a joyful fear of communing with God
-    - You have this joyful fear when you are genuinely afraid of doing anything to grieve or displease Him, not as avoiding warrant for punishment but out of sheer awe
-    - "We tremble with the privilege of being in His Presence and with an intense longing to honor Him... [and are] deeply afraid of grieving Him."
+ 1. We must have a joyful fear of communing with God
+     - You have this joyful fear when you are genuinely afraid of doing anything to grieve or displease Him, not as avoiding warrant for punishment but out of sheer awe
+     - "We tremble with the privilege of being in His Presence and with an intense longing to honor Him... [and are] deeply afraid of grieving Him."
 <br>
 
-2. We must have a sense of our spiritual insufficiency
-    - "Includes both a strong sense of our dependence on God, in general, and a readiness to recognize and repent of our own faults in particular."
-    - "We must come to God with the 'disposition of a beggar'... drop all pretense, flee from all phoniness."
-    - "To the degree you can shed this 'unreality' of self-sufficiency, to that degree your prayer life will become richer and deeper."
-- Restful Trust, yet Confident Hope (Keller groups Calvin's third and fourth rules together)
+ 2. We must have a sense of our spiritual insufficiency
+     - "Includes both a strong sense of our dependence on God, in general, and a readiness to recognize and repent of our own faults in particular."
+     - "We must come to God with the 'disposition of a beggar'... drop all pretense, flee from all phoniness."
+     - "To the degree you can shed this 'unreality' of self-sufficiency, to that degree your prayer life will become richer and deeper."
 <br>
 
-3) Submissive Trust
+3. Restful and Submissive Trust
     - Jesus: “Thy Will be done."
     - [This is to say] "Here's what I need--but You know best."
     - Praying in this way brings comfort and rest.
 <br>
 
-4) Confident Hope
+4. Confident Hope
     - We should pray with a sure hope that our prayer will be answered
     - Seems contradictory to Submissive Trust? Calvin explains why this isn’t the case:
     <br>
@@ -100,7 +94,7 @@ Luther's recommended beginning prayer (p 71):
             - Thus, these two rules aren’t contradictory but complimentary
             - We need to keep in mind that if God gave us everything we prayed for, we’d be miserable.  Augustine’s ‘Disordered Loves’ comes into play here again, of course.
             - God won’t give us anything that is contrary to His Will (Romans 8:28)
-    - “We can, therefore, pray confidently because He won’t five us everything we want. ‘He so tempers the outcome of events according to his incomprehensible plan that the prayers of the saints, which are a mixture of faith and error, are not nullified.’"
+    - "We can, therefore, pray confidently because He won’t five us everything we want. 'He so tempers the outcome of events according to his incomprehensible plan that the prayers of the saints, which are a mixture of faith and error, are not nullified.'"
     <br>
         - “Don’t be afraid that you will ask for the wrong thing. _Of course you will!_ God ‘tempers the outcome’ with his incomprehensible wisdom."
 <br>
