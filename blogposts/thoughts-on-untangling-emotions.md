@@ -1,6 +1,6 @@
 I’ve been reading a fascinating book!
   
-Understanding Emotions, by J. Alasdair Groves and Winston T. Smith, tries to tackle the not-enough-discussed topic of emotions from a biblical worldview, and aims to “show us how to properly engage with out emotions — even the more difficult ones like fear, anger, shame, guilt, and sorrow — so that we can better understand what they revel about our hearts and handle them wisely in everyday moments.”
+Untangling Emotions, by J. Alasdair Groves and Winston T. Smith, tries to tackle the not-enough-discussed topic of emotions from a biblical worldview, and aims to “show us how to properly engage with out emotions — even the more difficult ones like fear, anger, shame, guilt, and sorrow — so that we can better understand what they revel about our hearts and handle them wisely in everyday moments.”
 <br>
 
 Both authors seem well-credentialed for the task; Groves is the executive director for the New England branch of the Christian Counseling & Educational Foundation (CCEF), while Smith is the rector of Saint Anne’s Church in Abington, Pennsylvania. Both have received MDiv’s from Westminster Theological Seminary. Their reformed perspective comes out in the book, possibly no stronger than in their import of the Augustinian “disordered loves” paradigm. They also hold strongly to the Imago Dei, the teaching that humans are made in the image of God and thus share some of His attributes.
@@ -30,7 +30,8 @@ We tend to ignore our emotions: “most of us don’t know (or even stop to ask)
 <br>
 
 The intro ends with some “critical truths” about emotions that the authors want to get out to us early:
--   Emotions are a gift in that:
+
+- Emotions are a gift in that:
 	- “Emotions are an essential way we bear God’s image (17)"  
     - There’s an appendix titled ‘Does God Really Feel?’ that deals with the question of whether or not we can say that God has emotions; this doctrine is called God’s Impassibility.
     -   “Jesus leads the way” in our understanding of our emotions:
@@ -134,10 +135,10 @@ There are three main ways our physiology can influence our emotions:
 <br>
 
  1.  Too Fast or Too Slow
-		- “God made us to respond to the world around us in the moment, our hearts and bodies responding to our construal of how our situation is affecting the things we most love. When our bodies rush or delay that reaction, we begin to drift out of rhythm with reality, and our emotions start to pull us away from worshipful, trusting obedience rattan than toward it (57).”
-	    -    One page earlier our response and construal of our situations is described as instinctive; “this is another good and right aspect of God’s design! You were made to live out of love. The more you love, the more you’ll respond immediately when something affects what you love. Thus, when fear catapults you quicker than you thought towards your child who is stepping into the street, you are experiencing God’s blessing of instinctive emotions (56).”
+ - “God made us to respond to the world around us in the moment, our hearts and bodies responding to our construal of how our situation is affecting the things we most love. When our bodies rush or delay that reaction, we begin to drift out of rhythm with reality, and our emotions start to pull us away from worshipful, trusting obedience rattan than toward it (57).”
+ - One page earlier our response and construal of our situations is described as instinctive; “this is another good and right aspect of God’s design! You were made to live out of love. The more you love, the more you’ll respond immediately when something affects what you love. Thus, when fear catapults you quicker than you thought towards your child who is stepping into the street, you are experiencing God’s blessing of instinctive emotions (56).”
  2. Too Long or Too Short
-    -   “When our emotions either drain too quickly or stagnate, our bodies hinder rather than help us in responding to our situations. And we are more reliant on the physical help from our bodies’ emotions than we think” (59).”
+ - “When our emotions either drain too quickly or stagnate, our bodies hinder rather than help us in responding to our situations. And we are more reliant on the physical help from our bodies’ emotions than we think” (59).”
 		-   Helpful example: hours after getting out of your car, you still feel the tenseness of highway traffic.            
  3. Too Much or Too Little
 	-   “Your body is constantly sending signals to your soul about how the world is going, and those messages become significantly problematic when they get pressed too hard, the glandular equivalent of a computer key getting stuuuuuck in the down position (61).”
