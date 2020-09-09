@@ -37,6 +37,11 @@ Luther's recommended beginning prayer (p 71):
 <br>
 
 ---------------
+## Luther's little letter "A Simple Way to Pray" (p 89ff):
+- Luther was a strong advocate of the cultivation of prayer as a habit through regular discipline, both at morning and evening
+  - At morning, and at evening 
+<br>
+
 ## Luther's "A Simple Way to Pray", a letter to exiled barber (p 89ff): 
 - Luther was a strong advocate of the cultivation of prayer as a habit through regular discipline 
     - At morning, and at evening 
