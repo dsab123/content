@@ -1,4 +1,5 @@
-NOTE: book summary is up [here!](/#/summary/1/untangling-emotions).
+_NOTE: book summary is up ![here](/#/summary/1/untangling-emotions)!_
+<br>
 
 I’ve just read a fascinating book!
 <br>
