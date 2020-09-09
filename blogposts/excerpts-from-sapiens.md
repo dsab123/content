@@ -6,7 +6,7 @@ One of the things I like to do is collect important phrases and quotes from my r
 Here are some interesting excerpts and summary statements from the first four chapters of _Sapiens_, by Yuval Noah Harari. 
 <br>
 
-_You'll notice that each chapter summary gets longer; this is because the book is so engrossing. There is too much good writing in this volume. I highly recommend getting yourself a copy, which you can do through my affiliate linke [here]()_.
+_You'll notice that each chapter summary gets longer; this is because the book is so engrossing. There is too much good writing in this volume. I highly recommend getting yourself a copy, which you can do through my affiliate linke [here](https://amzn.to/3bJjxiS)_.
 <br>
 
 As a Christian, I disagree with most of what he says. We should read those who disagree with what we believe. Unfortunately, far too often dialogue between those who hold to opposing viewpoints is littered with the stubbly remains of poor strawmen who have been beaten to death. Against this backdrop, Harari's ability to correctly explain Christian belief is very refreshing. I consider this an gift because it is so rare.
@@ -91,4 +91,4 @@ I'm not going to engage with his writing in this post, rather I'll point out tha
 He himself has almost said as much in interviews. He remarks that he finds it odd that giant tech companies invite him to speak on the future of man-robot integration (which he devotes a whole chapter to) when all he says about man is gloom and doom.
 <br>
 
-What are your thoughts? [Shoot me an email and let me know](mailto: dsabbaghumd@gmail.com)
+What are your thoughts? [Shoot me an email and let me know](mailto:dsabbaghumd@gmail.com)
