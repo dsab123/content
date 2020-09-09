@@ -68,6 +68,7 @@ Luther's recommended beginning prayer (p 71):
 ---------------
 ## Calvin's Rules for Prayer (p 97ff):
  1. We must have a joyful fear of communing with God
+<br>
      - You have this joyful fear when you are genuinely afraid of doing anything to grieve or displease Him, not as avoiding warrant for punishment but out of sheer awe
      - "We tremble with the privilege of being in His Presence and with an intense longing to honor Him... [and are] deeply afraid of grieving Him."
 <br>
