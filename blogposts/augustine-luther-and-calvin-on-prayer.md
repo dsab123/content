@@ -9,6 +9,7 @@ Below are a few of my gleanings from the book, with page numbers for reference.
 Luther's recommended beginning prayer (p 71):
 "Although...you could rightly and properly be a severe judge over us sinners...now through your mercy implant in our hearts a comforting trust in your fatherly love, and let us experience the sweet and pleasant savor of a childlike certainty that we may joyfully call you Father, knowing and loving you and calling on you in every trouble."
 <br>
+<br>
 
 ---------------
 ## Augustine's principles of prayer in his letter to Phoba (p 84ff):
@@ -29,11 +30,13 @@ Luther's recommended beginning prayer (p 71):
     * "Let this cup pass from me - nevertheless, not my will but thine be done"
         * Perfect balance of honest desire and submission
         * Romans 8:26 - we do not know what to pray for oftentimes, the Spirit helps us in our weakneses.
+<br>
+<br>
 
 ---------------
 ## Luther's "A Simple Way to Pray", a letter to exiled barber (p 89ff):
-* Luther was a strong advocate of the cultivation of prayer as a habit through regular discipline
-    * At morning, and at evening
+- Luther was a strong advocate of the cultivation of prayer as a habit through regular discipline
+    - At morning, and at evening
 <br>
 
 * Ways to focus our thoughts and to warm and engage our affections for prayer
@@ -53,6 +56,8 @@ Luther's recommended beginning prayer (p 71):
 * Keep watch for the "preaching of the Spirit"
     * As He pleases, the Spirit may "fill our heart with rich thoughts and ideas that feel poignant" when doing any of the above steps
         * Listen to Him! Drop the rest of the routine, and dwell on the thoughts He imparts; cf Psalm 119:18, Ephesians 1:18
+<br>
+<br>
 
 ---------------
 ## Calvin's Rules for Prayer (p 97ff):
@@ -93,6 +98,8 @@ Luther's recommended beginning prayer (p 71):
     * “Only when we see we cannot keep the rules, and need God’s mercy, can we become people who begin to keep the rules. The rules do not earn or merit God’s attention but rather align our prayers with who God is — the God of free grace — and thereby unite us to Him more and more."
         * God gives us this grace in Christ, who secures us an audience with God because of His claims on the Father.
     * “For as soon as God’s dread majesty comes to mind, we cannot but tremble and be driven far away by the recognition of our own unworthiness, until Christ comes forward as intermediary, to change the throne of dreadful glory into the throne of grace … ‘Hitherto,’ he says, ‘you have asked nothing in my name; ask and you will receive’ [John 16:24] … as Paul says, ‘All God’s promises find their yea and amen in Him’ [2 Cor 1:20]. That is, they are confirmed and fulfilled."
+<br>
+<br>
 
 ---------------
 ## The Prayer of Prayers, an Exposition on the Lord’s Prayer by Augustine, Luther, Calvin (p 108ff):
@@ -169,6 +176,8 @@ Concluding remarks:
 * This prayer is given to us in plural form
     * Just as one person’s relationships with others brings out different facets of his personality, by seeing how others communicate with God, we can see how they view Him differently from us.
     * “If it takes a community to now an ordinary human being, how much more necessary would it be to get to know Jesus alongside others? By praying with friends, you will be able to hear and see facet of Jesus that you have not yet perceived."
+<br>
+<br>
 <br>
 
 ---------------
