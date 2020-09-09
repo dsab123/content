@@ -1,3 +1,5 @@
+NOTE: book summary is up [here!](/#/summary/1/untangling-emotions).
+
 I’ve just read a fascinating book!
 <br>
 
