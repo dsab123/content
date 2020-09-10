@@ -95,7 +95,9 @@ Would that we all began discussion of our disagreements with each other by accur
 <br>
 
 -   “Among all the world’s large creatures, the only survivors of the human flood will be humans themselves, and the farmyard animals that serve as galley slaves in Noah’s Ark.” (p 74).    
+<br>
 	- What an amazing sentence! Wonderful double-entendre here, Harari. You begin the chapter entitled “The Flood” by talking about how humans crossed the sea to Australia, but here reveal the true flood of which you were speaking the whole time — the human flood across the world that eradicates and domesticates animals to their liking. Genius writing.
+<br>
 
 I'm not going to engage with his writing in this post, rather I'll point out that I found myself often asking the question, "What's your motivation, Harari?" quite often. If all that he says is true, humanity is virtually an across-the-board blight on the face of the earth. Later on in the book (which you'll have to [purchase](https://amzn.to/3bJjxiS)), Harari details more atrocities that modern man has committed against the world and himself. If so, does humanity need to exist anymore? Would it be better for the world that we don't? 
 <br>
