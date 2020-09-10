@@ -47,29 +47,23 @@ because of Your judgements, Yahweh,_
 <br>
 
 ### B.2. The supernatural rule of the Most High God
-> 9. _because You, Yahweh, are Most High over all the earth.
-<br>
-Exceedingly You are exalted over all gods._
-<br>
+> 9. _because You, Yahweh, are Most High over all the earth._
+_Exceedingly You are exalted over all gods._
 
 ### C.2. The joy of the righteous in a God of salvation
 _(Moral commitment)_
-> 10._O you who love Yahweh, hate evil._
+> 10. _O you who love Yahweh, hate evil._
 <br>
 
 _(Guaranteed care and enrichment)_
-> _He simply keeps the souls of His beloved;
-<br>
-from the hand of the wicked He delivers them._
-<br>
+> _He simply keeps the souls of His beloved;_
+_from the hand of the wicked He delivers them._
 
 > 11._Light is sown for the righteous,_
-<br>
 _and for the upright in heart rejoicing._
-<br>
 
  _(Joy in a revealed God)_
-> 12._Rejoice, you righteous ones in Yahweh,_
+> 12. _Rejoice, you righteous ones in Yahweh,_
 _and give thanks to the memorial of His holiness._
 <br>
 
