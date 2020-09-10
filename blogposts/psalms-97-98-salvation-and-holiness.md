@@ -18,7 +18,7 @@ righteousness and judgement are the basis of His throne._
 <br>
 
 _(His enemies)_
-> 2. _Before Him, what a fire goes!
+> 3. _Before Him, what a fire goes!
 <br>
 And it consumes His adversaries all round._
 <br>
