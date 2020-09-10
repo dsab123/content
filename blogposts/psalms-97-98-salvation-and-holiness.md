@@ -11,7 +11,7 @@ let the abundance of coastlands rejoice._
 <br>
 
 ### B.1. The world-rule of the righteous God
-_(His throne)_ 
+_(His throne)_
 > 2. _Clouds and darkness surround Him;
 <br>
 righteousness and judgement are the basis of His throne._
