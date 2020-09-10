@@ -58,10 +58,8 @@ _(Moral commitment)_
 _(Guaranteed care and enrichment)_
 > _He simply keeps the souls of His beloved;_
 _from the hand of the wicked He delivers them._
-
-> 11._Light is sown for the righteous,_
+> 11. _Light is sown for the righteous,_
 _and for the upright in heart rejoicing._
-
  _(Joy in a revealed God)_
 > 12. _Rejoice, you righteous ones in Yahweh,_
 _and give thanks to the memorial of His holiness._
@@ -83,13 +81,10 @@ _in the sight of the nations_
 _He has revealed His righteousness._
 
 _(Salvation explained)_
->3. _He has remembered His committed live and His truth
-<br>
-for the house of Israel.
-<br>
-All the ends of the earth have seen
-<br>
-the salvation of our God._
+> 3. _He has remembered His committed live and His truth_
+_for the house of Israel.
+_All the ends of the earth have seen_
+_the salvation of our God._
 <br>
 
 ### B. Yahweh the King (of all the earth)
