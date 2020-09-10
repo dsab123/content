@@ -1,0 +1,123 @@
+I had a really good reading this morning in _Psalms By The Day_, by Alec Motyer, on Psalms 97 and 98. Below is his translation of the two psalms, along with his own divisions and sub-headings.
+<br>
+
+## Psalm 97
+### A.1 Reigning God: rejoicing world
+> 1.  Yahweh is king:
+let the earth exult;
+let the abundance of coastlands rejoice.
+<br>
+
+### B.1. The world-rule of the righteous God
+_(His throne)_ 
+> 2. Clouds and darkness surround Him;
+righteousness and judgement are the basis of His throne.
+<br>
+
+_(His enemies)_
+> 3. Before Him, what a fire goes!
+And it consumes His adversaries all round.
+<br>
+
+_(His presence)_
+> 4. His lightning illuminates the world of people;
+the world of people sees and writes.
+>5. Even mountains melt like wax because of Yahweh’s presence —
+because of the presence of the Sovereign of all the earth.
+<br>
+
+_(Cosmic revelation)_
+> 6. The heavens have declared His righteousness,  
+and all the people will see His glory.
+<br>
+
+### C.1. The shaming of idolaters; the submission of their gods
+> 7. All those who serve an idol will reap shame —
+who are making their boast in the godlets.
+Bow in worship to Him, all you gods!
+<br>
+  
+### A.2. Revealing God: rejoicing church
+> 8. Zion has heard and rejoiced,
+and the daughters of Judah have exulted
+because of Your judgements, Yahweh,
+<br>
+
+### B.2. The supernatural rule of the Most High God
+> 9. because You, Yahweh, are Most High over all the earth.
+Exceedingly You are exalted over all gods.
+<br>
+
+### C.2. The joy of the righteous in a God of salvation
+_(Moral commitment)_
+>10. O you who love Yahweh, hate evil.
+<br>
+
+_(Guaranteed care and enrichment)_
+>> He simply keeps the souls of His beloved;
+from the hand of the wicked He delivers them.
+<br>
+
+>11. Light is sown for the righteous,
+and for the upright in heart rejoicing.
+<br>
+
+ _(Joy in a revealed God)_
+> 12. Rejoice, you righteous ones in Yahweh,
+and give thanks to the memorial of His holiness.
+<br>
+
+## Psalm 98
+>A Song.
+
+### A. Yahweh the Savior (of all the earth)
+_(Salvation accomplished)_
+> 1. Sing to Yahweh a new song
+because of the wonderful things He has done.
+His right hand has achieved salvation for Him,
+and the arm of His holiness.
+<br>
+
+_(Salvation revealed)_
+> 2. Yahweh has made known His salvation:
+in the sight of the nations
+He has revealed His righteousness.
+<br>
+
+_(Salvation explained)_
+>3. He has remembered His committed live and His truth
+for the house of Israel.
+All the ends of the earth have seen
+the salvation of our God.
+<br>
+
+### B. Yahweh the king (of all the earth)
+> 4. Shout aloud to Yahweh, all the earth;
+burst forth, and shout out, and make music
+> 5. Make music to Yahweh with the lute and the voice of melody.
+> 6. With trumpets and the voice of the horn,
+shout aloud before Yahweh, the King.
+<br>
+
+### C. Yahweh the judge (of all the earth)
+> 7. Let the sea thunder, and all it contains,
+the peopled-world and those living in it.
+> 8. Rivers — let them clap hands.
+Together let mountains too shout out,
+> 9. before Yahweh
+because He is coming to judge the earth:
+He will judge the world of people with righteousness.
+and peoples with fairness.
+<br>
+
+_____
+
+Motyer explains the link between salvation and holiness/righteousness:
+
+_“Psalm 97 focuses in on Yahweh’s own and terrible righteousness: it is the foundation of what He is (2), inherent in the very nature of things (6), and drastically dangerous to His enemies (3–4). Salvation must — if it is real salvation — satisfy that righteousness. Psalm 98 says that it does._
+<br>
+
+_"Salvation itself is a work of holiness (98:1); when Yahweh makes known His salvation, He is revealing His righteousness (2). To such a complete extent does His salvation meet His righteous requirements that ‘salvation’ and ‘righteousness are parallel terms — different words describing the same thing._
+<br>
+
+_"We can therefore confidently say that the Holy God is satisfied to look on Him (Jesus) and pardon me — satisfied, the very heart of salvation! Look at Hebrews 12:22–24 (NKJV). We are called ‘just’ and ‘made perfect’, and the proof of this is that we live, without fear, in the presence of ‘God the Judge of all’. The supreme Judge Himself is content to have us! *Satisfied!*_
