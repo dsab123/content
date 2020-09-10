@@ -23,44 +23,28 @@ _(His enemies)_
 And it consumes His adversaries all round._
 <br>
 
-_(His enemies)_
-> 3. _Before Him, what a fire goes!_
-<br>
-_And it consumes His adversaries all round._
-<br>
-
 _(His presence)_
 > 4. _His lightning illuminates the world of people;_
 <br>
-_the world of people sees and writhes.
+_the world of people sees and writhes._
 <br>
-> 5. Even mountains melt like wax because of Yahweh's presence -
+> 5. _Even mountains melt like wax because of Yahweh's presence -_
 <br>
-because of the presence of the Sovereign of all the earth._
-<br>
-
-_(His presence)_
-> 4. _His lightning illuminates the world of people;
-<br>
-the world of people sees and writhes.
-<br>
-> 5. Even mountains melt like wax because of Yahweh’s presence —
-<br>
-because of the presence of the Sovereign of all the earth._
+_because of the presence of the Sovereign of all the earth._
 <br>
 
 _(Cosmic revelation)_
-> 6. _The heavens have declared His righteousness,  
+> 6. _The heavens have declared His righteousness,_
 <br>
-and all the people will see His glory._
+_and all the people will see His glory._
 <br>
 
 ### C.1. The shaming of idolaters; the submission of their gods
-> 7. _All those who serve an idol will reap shame —
+> 7. _All those who serve an idol will reap shame —_
 <br>
-who are making their boast in the godlets.
+_who are making their boast in the godlets._
 <br>
-Bow in worship to Him, all you gods!_
+_Bow in worship to Him, all you gods!_
 <br>
   
 ### A.2. Revealing God: rejoicing church
@@ -79,7 +63,7 @@ Exceedingly You are exalted over all gods._
 
 ### C.2. The joy of the righteous in a God of salvation
 _(Moral commitment)_
-> _10. O you who love Yahweh, hate evil._
+> _10.O you who love Yahweh, hate evil._
 <br>
 
 _(Guaranteed care and enrichment)_
@@ -88,15 +72,15 @@ _(Guaranteed care and enrichment)_
 from the hand of the wicked He delivers them._
 <br>
 
-> 11. _Light is sown for the righteous,
+> 11._Light is sown for the righteous,
 <br>
 and for the upright in heart rejoicing._
 <br>
 
  _(Joy in a revealed God)_
-> 12. _Rejoice, you righteous ones in Yahweh,
+> 12._Rejoice, you righteous ones in Yahweh,_
 <br>
-and give thanks to the memorial of His holiness._
+_and give thanks to the memorial of His holiness._
 <br>
 
 ## Psalm 98
@@ -132,62 +116,32 @@ the salvation of our God._
 <br>
 
 ### B. Yahweh the King (of all the earth)
-> 4. _Shout aloud to Yahweh, all the earth;
+> 4. _Shout aloud to Yahweh, all the earth;_
 <br>
-burst forth, and shout out, and make music.
+_burst forth, and shout out, and make music._
 <br>
-> 5. Make music to Yahweh with the lute and the voice of melody.
+> 5. _Make music to Yahweh with the lute and the voice of melody._
 <br>
-> 6. With trumpets and the voice of the horn,
+> 6. _With trumpets and the voice of the horn,_
 <br>
-shout aloud before Yahweh, the King._
-
-### B. Yahweh the king (of all the earth)
-> 4. _Shout aloud to Yahweh, all the earth;
-<br>
-burst forth, and shout out, and make music
-<br>
-> 5. Make music to Yahweh with the lute and the voice of melody.
-<br>
-> 6. With trumpets and the voice of the horn,
-<br>
-shout aloud before Yahweh, the King._
-<br>
+_shout aloud before Yahweh, the King._
 
 ### C. Yahweh the Judge (of all the earth)
-> 7. _Let the sea thunder, and all it contains,
+> 7. _Let the sea thunder, and all it contains,_
 <br>
-the peopled-world and those living in it.
+_the peopled-world and those living in it._
 <br>
-> 8. Rivers - let them clap hands.
+> 8. _Rivers - let them clap hands._
 <br>
-Together let mountains too shout out,
+_Together let mountains too shout out,_
 <br>
-> 9. before Yahweh
+> 9. _before Yahweh_
 <br>
-because He is coming to judge the earth;
+_because He is coming to judge the earth;_
 <br>
-He will judge the world of people with righteousness.
+_He will judge the world of people with righteousness._
 <br>
-and peoples with fairness._
-<br>
-
-### C. Yahweh the judge (of all the earth)
-> 7. _Let the sea thunder, and all it contains,
-<br>
-the peopled-world and those living in it.
-<br>
-> 8. Rivers — let them clap hands.
-<br>
-Together let mountains too shout out,
-<br>
-> 9. before Yahweh
-<br>
-because He is coming to judge the earth:
-<br>
-He will judge the world of people with righteousness.
-<br>
-and peoples with fairness._
+_and peoples with fairness._
 <br>
 ____________________
 <br>
