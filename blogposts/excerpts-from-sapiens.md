@@ -18,16 +18,23 @@ Would that we all began discussion of our disagreements with each other by accur
 ### Chapter 1 — An Animal of No Significance
 
 - First few paragraphs are captivating! Starting at the most basic of particles, Harari zooms out little by little, introducing us to the relationship between physics, chemistry, and biology along the way, to stop at history.  
+<br>
+
 - He labors to make the distinction between Homo Sapiens and the other “human” species known.
 <br>
 	- This is the high point of his labors, it seems to me: “Sapiens were already very different from Neandethals and Denisovans not only in their genetic code and physical traits, but also in their cognitive and social abilities, yet it appears it was still just possible, on rare occasions, for a Sapiens and a Neanderthal to produce a fertile offspring. So the populations did not merge, but a few lucky Neanderthal genes did hitch a ride on the Sapiens Express. It is unsettling — and perhaps thrilling — to think that we Sapiens could at one time have sex with an animal from a different species, and produce children together.” p. 17’
+<br>
+
 -   It is possible that Sapiens (which we are) killed out all other “human” species.
 <br>
 
 ### Chapter 2 — The Tree of Knowledge
 
--   (I feel that Harari pejoratively titles the first few chapters of the book using Christian language, but its entertaining)    
+-   I feel that Harari pejoratively titles the first few chapters of the book using Christian language, but its entertaining!
+<br>
+
 -   Somehow (Harari asserts no one knows), Sapiens gained extraordinary cognitive abiliities. This was possibly due to some extreme conditions they had to endure. Harari calls this the “Tree of Knowledge” (p 21) mutation. The cognitive ability stemming from this mutation separated Sapiens from the other “humans”, most notably in their (our?) use of language. “What was so special about the new Sapiens language that it enabled us to conquer the world?” (p 22). His answer is that “our language is amazingly supple” (p 22). Sapiens learned to describe not only things that were there, i.e. “there’s a lion at the watering hole”, but things that weren’t there. Harari calls these things fictions. From these fictions emerged all religions and tribal legends. What’s more, modern Sapiens still engage in fiction-telling. He goes into detail on the history of Peugeot, one of the first Limited Liability Corporations. As an LLC, Peugeot does not consist of, or exist in, its employees, or its factories, or products. It is a fictional entity. So with Christianity, Islam, and many other invisible systems we have created in order to accomplish things. At this moment you’d expect him to lash into organized religion and explain why it is an evil that must be abolished. However, he does something unexpected: he says that these fictions are important because they allow us to engage in these myths collectively, that is, with other Sapiens. “Any large-scale human corporation — whether a modern state, a medieval church, an ancient city or an archaic tribe — is rooted in common myths that exist only in people’s collective imagination. Churches are rooted in common religious myths. Two Catholics who have never met can nevertheless go together on crusade or pool funds to build a hospital because they both believe that God was incarnated in human flesh and allowed Himself to be crucified to redeem our sins. States are rooted in common national myths.” (p 27). “Our modern institutions function on exactly the same basis” as these religious or national myths (p 28). And it was these kind of myths that allowed Sapiens to “conquer the world”, whether in hunting groups of animals (or tragically, other “humans”), or in tearing down a forest to produce an apartment complex.
+<br>
 	- I must commend him on his accurate representation of Christian teaching! ❤️ It's refreshing when someone who disagrees with you is able to state your position accurately.
 <br>
 
@@ -39,9 +46,11 @@ Would that we all began discussion of our disagreements with each other by accur
 -   With regard to religious belief, Sapiens were probably animists of some kind. But we can’t press deeper: “Instead of erecting mountains of theory over a molehill of tomb relics, cave paintings and bone statuettes, it is better to be frank and admit that we have only the haziest notions about the religions of ancient foragers.” (p 55).
 <br>
     
--   “There’s hardly an activity, a belief, or even an emotion that is not mediated by objects of our own devising” (p 43), Harari says. In the context he is explaining why we cannot rely on physical artifacts too much to learn about our ancestors, who were nomadic and did not have many possessions.  
+-   “There’s hardly an activity, a belief, or even an emotion that is not mediated by objects of our own devising” (p 43), Harari says. In the context he is explaining why we cannot rely on physical artifacts too much to learn about our ancestors, who were nomadic and did not have many possessions.
+<br>
+
 	- What is the relation between his statement and the Christian Sacraments? God knows our need for physical objects and mediates HIs grace to us through them ❤️    
-    - Consider Elisha’s supernatural curing of the “death in the pot” by the use of flour, which was acting like a sacrament to ease the prophets’ consciousnesses enough to allow them to eat.
+	- Consider Elisha’s supernatural curing of the “death in the pot” by the use of flour, which was acting like a sacrament to ease the prophets’ consciousnesses enough to allow them to eat.
 <br>
 
 - “This curtain of silence” (that is, not knowing about much of our ancestors’ lives) “shrouds thens of thousands of years of history. … This curtain is so thick that we cannot even be sure [speculations about Napoleons or Beethovens of the era] [existed] — let alone describe them in detail.” (p 61).
@@ -76,7 +85,9 @@ Would that we all began discussion of our disagreements with each other by accur
 -   “The Americas were a great laboratory of evolutionary experimentation, a place where animals and plants unknown in Africa and Asia had evolved and thrived. But no longer.” (p 71). Sapiens wiped out many of the thriving fauna.
 <br>
     
--   “Again, some scholars try to exonerate Homo sapiens and blame climate change (which requires them to posit that, for some mysterious reason, the climate in the Caribbean islands remained static for 7,000 years while the rest of the western hemisphere warmed). But in America, the dung ball cannot be dodged. We are the culprits. There is no way around that truth. Even if climate change abetted us, the human contribution was decisive.” (p 72)        
+-   “Again, some scholars try to exonerate Homo sapiens and blame climate change (which requires them to posit that, for some mysterious reason, the climate in the Caribbean islands remained static for 7,000 years while the rest of the western hemisphere warmed). But in America, the dung ball cannot be dodged. We are the culprits. There is no way around that truth. Even if climate change abetted us, the human contribution was decisive.” (p 72)
+<br>
+
 	- LOL at “dung ball cannot be dodged”; what a delightful writer this man is!
 <br>
 
