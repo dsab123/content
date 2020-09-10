@@ -136,7 +136,6 @@ _the peopled-world and those living in it._
 _Together let mountains too shout out,_
 <br>
 > 9. _before Yahweh_
-<br>
 _because He is coming to judge the earth;_
 <br>
 _He will judge the world of people with righteousness._
