@@ -56,7 +56,7 @@ _(Moral commitment)_
 <br>
 
 _(Guaranteed care and enrichment)_
-> _He simply keeps the souls of His beloved;_
+>> _He simply keeps the souls of His beloved;_
 _from the hand of the wicked He delivers them._
 > 11. _Light is sown for the righteous,_
 _and for the upright in heart rejoicing._
