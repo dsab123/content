@@ -25,27 +25,18 @@ And it consumes His adversaries all round._
 
 _(His presence)_
 > 4. _His lightning illuminates the world of people;_
-<br>
 _the world of people sees and writhes._
-<br>
 > 5. _Even mountains melt like wax because of Yahweh's presence -_
-<br>
 _because of the presence of the Sovereign of all the earth._
-<br>
 
 _(Cosmic revelation)_
 > 6. _The heavens have declared His righteousness,_
-<br>
 _and all the people will see His glory._
-<br>
 
 ### C.1. The shaming of idolaters; the submission of their gods
 > 7. _All those who serve an idol will reap shame —_
-<br>
 _who are making their boast in the godlets._
-<br>
 _Bow in worship to Him, all you gods!_
-<br>
   
 ### A.2. Revealing God: rejoicing church
 > 8. _Zion has heard and rejoiced,
