@@ -17,11 +17,10 @@ _(His throne)_
 righteousness and judgement are the basis of His throne._
 <br>
 
-### B.1. The world-rule of the righteous God
-_(His throne)_
-> 2. _Clouds and darkness surround Him;
+_(His enemies)_
+> 2. _Before Him, what a fire goes!
 <br>
-righteousness and judgement are the basis of His throne._
+Righteousness and judgement are the basis of His throne._
 <br>
 
 _(His enemies)_
