@@ -202,3 +202,4 @@ And from Psalm 98: _"Salvation itself is a work of holiness (98:1); when Yahweh 
 <br>
 
 _"We can therefore confidently say that the Holy God is satisfied to look on Him (Jesus) and pardon me — satisfied, the very heart of salvation! Look at Hebrews 12:22–24 (NKJV). We are called ‘just’ and ‘made perfect’, and the proof of this is that we live, without fear, in the presence of ‘God the Judge of all’. The supreme Judge Himself is content to have us! *Satisfied!*_
+
