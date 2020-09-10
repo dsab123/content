@@ -20,7 +20,7 @@ righteousness and judgement are the basis of His throne._
 _(His enemies)_
 > 2. _Before Him, what a fire goes!
 <br>
-Righteousness and judgement are the basis of His throne._
+And it consumes His adversaries all round._
 <br>
 
 _(His enemies)_
@@ -30,11 +30,21 @@ _And it consumes His adversaries all round._
 <br>
 
 _(His presence)_
+> 4. _His lightning illuminates the world of people;_
+<br>
+_the world of people sees and writhes.
+<br>
+> 5. Even mountains melt like wax because of Yahweh's presence -
+<br>
+because of the presence of the Sovereign of all the earth._
+<br>
+
+_(His presence)_
 > 4. _His lightning illuminates the world of people;
 <br>
-the world of people sees and writes.
+the world of people sees and writhes.
 <br>
->5. Even mountains melt like wax because of Yahweh’s presence —
+> 5. Even mountains melt like wax because of Yahweh’s presence —
 <br>
 because of the presence of the Sovereign of all the earth._
 <br>
@@ -121,6 +131,17 @@ All the ends of the earth have seen
 the salvation of our God._
 <br>
 
+### B. Yahweh the King (of all the earth)
+> 4. _Shout aloud to Yahweh, all the earth;
+<br>
+burst forth, and shout out, and make music.
+<br>
+> 5. Make music to Yahweh with the lute and the voice of melody.
+<br>
+> 6. With trumpets and the voice of the horn,
+<br>
+shout aloud before Yahweh, the King._
+
 ### B. Yahweh the king (of all the earth)
 > 4. _Shout aloud to Yahweh, all the earth;
 <br>
@@ -131,6 +152,24 @@ burst forth, and shout out, and make music
 > 6. With trumpets and the voice of the horn,
 <br>
 shout aloud before Yahweh, the King._
+<br>
+
+### C. Yahweh the Judge (of all the earth)
+> 7. _Let the sea thunder, and all it contains,
+<br>
+the peopled-world and those living in it.
+<br>
+> 8. Rivers - let them clap hands.
+<br>
+Together let mountains too shout out,
+<br>
+> 9. before Yahweh
+<br>
+because He is coming to judge the earth;
+<br>
+He will judge the world of people with righteousness.
+<br>
+and peoples with fairness._
 <br>
 
 ### C. Yahweh the judge (of all the earth)
@@ -150,7 +189,7 @@ He will judge the world of people with righteousness.
 <br>
 and peoples with fairness._
 <br>
-_____
+____________________
 <br>
 
 Motyer explains the link between salvation and holiness/righteousness:
