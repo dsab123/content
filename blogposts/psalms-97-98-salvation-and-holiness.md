@@ -59,6 +59,7 @@ _(Guaranteed care and enrichment)_
 >> _He simply keeps the souls of His beloved;_
 _from the hand of the wicked He delivers them._
 <br>
+
 > 11. _Light is sown for the righteous,_
 _and for the upright in heart rejoicing._
  _(Joy in a revealed God)_
@@ -83,7 +84,7 @@ _He has revealed His righteousness._
 
 _(Salvation explained)_
 > 3. _He has remembered His committed live and His truth_
-_for the house of Israel.
+_for the house of Israel._
 _All the ends of the earth have seen_
 _the salvation of our God._
 <br>
