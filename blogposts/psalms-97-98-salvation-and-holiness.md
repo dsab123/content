@@ -54,23 +54,22 @@ Exceedingly You are exalted over all gods._
 
 ### C.2. The joy of the righteous in a God of salvation
 _(Moral commitment)_
-> _10.O you who love Yahweh, hate evil._
+> 10._O you who love Yahweh, hate evil._
 <br>
 
 _(Guaranteed care and enrichment)_
->> _He simply keeps the souls of His beloved;
+> _He simply keeps the souls of His beloved;
 <br>
 from the hand of the wicked He delivers them._
 <br>
 
-> 11._Light is sown for the righteous,
+> 11._Light is sown for the righteous,_
 <br>
-and for the upright in heart rejoicing._
+_and for the upright in heart rejoicing._
 <br>
 
  _(Joy in a revealed God)_
 > 12._Rejoice, you righteous ones in Yahweh,_
-<br>
 _and give thanks to the memorial of His holiness._
 <br>
 
@@ -79,22 +78,15 @@ _and give thanks to the memorial of His holiness._
 
 ### A. Yahweh the Savior (of all the earth)
 _(Salvation accomplished)_
-> 1. _Sing to Yahweh a new song
-<br>
-because of the wonderful things He has done.
-<br>
-His right hand has achieved salvation for Him,
-<br>
-and the arm of His holiness._
-<br>
+> 1. _Sing to Yahweh a new song_
+_because of the wonderful things He has done._
+_His right hand has achieved salvation for Him,_
+_and the arm of His holiness._
 
 _(Salvation revealed)_
-> 2. _Yahweh has made known His salvation:
-<br>
-in the sight of the nations
-<br>
-He has revealed His righteousness._
-<br>
+> 2. _Yahweh has made known His salvation:_
+_in the sight of the nations_
+_He has revealed His righteousness._
 
 _(Salvation explained)_
 >3. _He has remembered His committed live and His truth
@@ -108,13 +100,9 @@ the salvation of our God._
 
 ### B. Yahweh the King (of all the earth)
 > 4. _Shout aloud to Yahweh, all the earth;_
-<br>
 _burst forth, and shout out, and make music._
-<br>
 > 5. _Make music to Yahweh with the lute and the voice of melody._
-<br>
 > 6. _With trumpets and the voice of the horn,_
-<br>
 _shout aloud before Yahweh, the King._
 
 ### C. Yahweh the Judge (of all the earth)
