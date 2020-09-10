@@ -128,18 +128,12 @@ _shout aloud before Yahweh, the King._
 
 ### C. Yahweh the Judge (of all the earth)
 > 7. _Let the sea thunder, and all it contains,_
-<br>
 _the peopled-world and those living in it._
-<br>
 > 8. _Rivers - let them clap hands._
-<br>
 _Together let mountains too shout out,_
-<br>
 > 9. _before Yahweh_
 _because He is coming to judge the earth;_
-<br>
 _He will judge the world of people with righteousness._
-<br>
 _and peoples with fairness._
 <br>
 ____________________
