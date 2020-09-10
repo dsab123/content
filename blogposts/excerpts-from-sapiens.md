@@ -19,7 +19,7 @@ Would that we all began discussion of our disagreements with each other by accur
 
 - First few paragraphs are captivating! Starting at the most basic of particles, Harari zooms out little by little, introducing us to the relationship between physics, chemistry, and biology along the way, to stop at history.  
 - He labors to make the distinction between Homo Sapiens and the other “human” species known.
-
+<br>
 	- This is the high point of his labors, it seems to me: “Sapiens were already very different from Neandethals and Denisovans not only in their genetic code and physical traits, but also in their cognitive and social abilities, yet it appears it was still just possible, on rare occasions, for a Sapiens and a Neanderthal to produce a fertile offspring. So the populations did not merge, but a few lucky Neanderthal genes did hitch a ride on the Sapiens Express. It is unsettling — and perhaps thrilling — to think that we Sapiens could at one time have sex with an animal from a different species, and produce children together.” p. 17’
 -   It is possible that Sapiens (which we are) killed out all other “human” species.
 <br>
