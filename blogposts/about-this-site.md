@@ -13,7 +13,7 @@ I had very unsettled years, spiritually speaking, from about the time I was eigh
 <br>
 
 ### Reading
-I soon embraced reading as a spiritual discipline. I picked up Bibles and theology books wherever I could find them (shoutout to Value Village in PG), and began reading voraciously. Popular-level theology books were my mainstay for a while, but soon after I picked up church history surveys. Puritan works soon followed, which showed me [the loveliness and beauty of Christ](https://danielsabbagh.com alt="blog post from Samuel Rutherford that is not up yet"). After reading [a book about reading books](https://danielsabbagh.com/#/summary/4/lit), I learned that it was not a spiritually ‘lesser’ practice to read secular books. So I branched back into fiction and some classics, and the occasional bestseller. And when I started seminary, I added graduate-level books to the mix. A pretty wide span, eh?
+I soon embraced reading as a spiritual discipline. I picked up Bibles and theology books wherever I could find them (shoutout to Value Village in PG), and began reading voraciously. Popular-level theology books were my mainstay for a while, but soon after I picked up church history surveys. Puritan works soon followed, which showed me [the loveliness and beauty of Christ](https://danielsabbagh.com/#/blog/15/o-consider-his-loveliness-and-beauty). After reading [a book about reading books](https://danielsabbagh.com/#/summary/4/lit), I learned that it was not a spiritually ‘lesser’ practice to read secular books. So I branched back into fiction and some classics, and the occasional bestseller. And when I started seminary, I added graduate-level books to the mix. A pretty wide span, eh?
 <br>
 
 ### Writing
@@ -24,8 +24,7 @@ Not too long after I began reading, I found myself writing. Mostly about those s
 I've had this blog up in some form or another since 2015, and it’s served me well to that end. On the prior incarnation of this [about page](http://old-danielsabbaghcom-website.s3-website-us-east-1.amazonaws.com/blog/2015/why-blog/), I said that my writing was mainly for me and my career, not for you:
 <br>
 
-![image alt="image not up yet"]()
-_Beware the font whiplash and incoherent short sentences_
+<img src="2d4edc3bc98956a77b3bf06fea7e6bff.jpg" class="post-image" alt="image of old about page" title="Beware the font whiplash and incoherent short sentences">
 <br>
 
 I don’t agree with my younger self anymore. If writing aids my communication, as I say in the second sentence, then my writing by definition is for you. Because writing is a form of communication. 
@@ -51,7 +50,7 @@ To that end, I plan to blog about spiritual things, and to write book summaries 
 I’ve signed up for Amazon’s affiliate program, which means whenever you buy a book through a link on this site, I get a tiny cut of the profits. The money I’ll be making isn’t a substitute for a real job, but a couple bucks a month would be pretty sweet.
 <br>
 
-Please drop me an [email] letting me know what you think about this endeavor.
+Please drop me an [email](mailto:dsabbaghumd@gmail.com) letting me know what you think about this endeavor.
 <br>
 
 There’s a second reason to the question “Why blog?” The answer is to keep up my software skills, hence this site being written from scratch. If techy things are in your purview, read on. If not, I won’t be offended, ha!
