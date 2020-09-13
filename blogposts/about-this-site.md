@@ -85,6 +85,7 @@ The database looks like
 <br>
 
 Though I’m proud of the little infrastructure I’ve built for the site, I don’t think it could handle more than a few hundred users at a time, and not only because I’m on the free tier of everything except RDS. I have plans to robustify the site, which include figuring out
+<br>
 - how CDNs work with caching images and static assets; I’m getting some cache misses from CloudFront on static assets, which is quite the anomaly
 - how to set up some kind of Server-Side Rendering for SEO purposes, which I don’t know how to do right now because I’m running a serverless backend
 - looking at Infrastructure-as-Code solutions like Terraform (or Netlify? or Ansible?) to store my AWS infrastructure in source control
