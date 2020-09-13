@@ -1,6 +1,8 @@
-### Hi! I’m a software developer living on the east coast. I wrote this website from scratch (i.e. no WordPress, Squarespace — just me and my code), and I write about books and spiritual things.
+### Hi! I’m a software developer living on the east coast. 
 
-## If you’ll listen, I want to tell you how I got to the point of releasing this blog into the wild, and why that matters to you, the reader.
+### I wrote this website from scratch (i.e. no WordPress, Squarespace — just me and my code), and I write about books and spiritual things.
+
+### If you’ll listen, I want to tell you how I got to the point of releasing this blog into the wild, and why that matters to you, the reader.
 <br>
 
 I see my progression to writing this blog in three stages. First, my awakening to spiritual things; second, my embrace of reading; and third, the publishing of my writing.
@@ -11,7 +13,7 @@ I had very unsettled years, spiritually speaking, from about the time I was eigh
 <br>
 
 ### Reading
-I soon embraced reading as a spiritual discipline. I picked up Bibles and theology books wherever I could find them (shoutout to Value Village in PG), and began reading voraciously. Popular-level theology books were my mainstay for a while, but soon after I picked up church history surveys. Puritan works soon followed, which showed me [the loveliness and beauty of Christ](blog post quote from Samuel Rutherford). After reading [a book about reading books](link to Lit! review), I learned that it was not a spiritually ‘lesser’ practice to read secular books. So I branched back into fiction and some classics, and the occasional bestseller. And when I started seminary, I added graduate-level books to the mix. A pretty wide span, eh?
+I soon embraced reading as a spiritual discipline. I picked up Bibles and theology books wherever I could find them (shoutout to Value Village in PG), and began reading voraciously. Popular-level theology books were my mainstay for a while, but soon after I picked up church history surveys. Puritan works soon followed, which showed me [the loveliness and beauty of Christ](https://danielsabbagh.com alt="blog post from Samuel Rutherford that is not up yet"). After reading [a book about reading books](https://danielsabbagh.com/#/summary/4/lit), I learned that it was not a spiritually ‘lesser’ practice to read secular books. So I branched back into fiction and some classics, and the occasional bestseller. And when I started seminary, I added graduate-level books to the mix. A pretty wide span, eh?
 <br>
 
 ### Writing
@@ -65,8 +67,8 @@ If you’re of the programming persuasion, here are some cool things about the g
 
 The frontend is 
 <br>
-  - written in [Aurelia](aurelia.io), a snazzy front-end framework
-  - bundled with [Webpack](webpack.io), which I love so much for ease of use; other bundlers are squares
+  - written in [Aurelia](https://aurelia.io), a snazzy front-end framework
+  - bundled with [Webpack](https://webpack.js.org), which I love so much for ease of use; other bundlers are squares
   - deployed to an S3 bucket that sits behind a CloudFront CDN
 <br>
 
@@ -88,7 +90,7 @@ Though I’m proud of the little infrastructure I’ve built for the site, I don
 - looking at Infrastructure-as-Code solutions like Terraform (or Netlify? or Ansible?) to store my AWS infrastructure in source control
 - how to use Service Workers to cache blogposts and enable a smoother user experience
 
-Wow, thanks for reading this far! If the technical aspect interests you I’d love to hear why. [Email me about it.](mailto:dsabbaghumd@gmail.com)
+Wow, thanks for reading this far! If the technical aspect interests you I’d love to hear why. [Email me about it](mailto:dsabbaghumd@gmail.com).
 <br>
 
 Now, go read my blog and buy some good books.
