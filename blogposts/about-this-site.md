@@ -5,10 +5,10 @@
 ### If you’ll listen, I want to tell you how I got to the point of releasing this blog into the wild, and why that matters to you, the reader.
 <br>
 
-I see my progression to writing this blog in three stages. First, my awakening to spiritual things; second, my embrace of reading; and third, the publishing of my writing.
+I see my progression to writing this blog in three stages. First, my awakening to **spiritual things_**; second, my embrace of **reading**; and third, the publishing of my **writing**.
 <br>
 
-## Spiritual Things
+### Spiritual Things
 I had very unsettled years, spiritually speaking, from about the time I was eighteen until about twenty-one. After a crisis of faith, I came to a settled understanding of the Christian religion. I found a solid church home (Trinity OPC peeps, I love you and miss you all so much) and began to learn spiritual things at a rapid pace.
 <br>
 
