@@ -1,7 +1,6 @@
 ### Hi! I’m a software developer living on the east coast. I wrote this website from scratch (i.e. no WordPress, Squarespace — just me and my code), and I write about books and spiritual things.
-<br>
 
-### If you’ll listen, I want to tell you how I got to the point of releasing this blog into the wild, and why that matters to you, the reader.
+## If you’ll listen, I want to tell you how I got to the point of releasing this blog into the wild, and why that matters to you, the reader.
 <br>
 
 I see my progression to writing this blog in three stages. First, my awakening to spiritual things; second, my embrace of reading; and third, the publishing of my writing.
@@ -36,7 +35,9 @@ So I’ll continue to use danielsabbagh.com to practice my writing, but with an 
 And if my writing is for you, I’ll beg the question by asking: What’s in it for you? Why read this blog? Well, If I’m practicing my (spiritual) writing, then you can use my site to practice your (spiritual) reading!
 <br>
 
-Stemming from my personal experience, I have a _deep desire_ to encourage folks to keep up some kind of spiritual reading that involves books. Our reading should include more than just christian blogs and podcasts. There is something about engrossing yourself in a book that at times requires sheer effort to work through; this effort is simply not required in other mediums. Blogs, tweets, facebook posts, podcasts simply do not compare (although podcasts might come the closest). In the online mediums, the writer is often concerned about page views and the spread of their content, so any phrase or word that won’t tend to that end gets removed. Or, if you disagree you can just close your browser and find another article. But with a book, you’re bound to find something you disagree with, and if you’re diligent you’ll grow in your own perspective as you wrestle with new ideas.
+Stemming from my personal experience, I have a _deep desire_ to encourage folks to keep up some kind of spiritual reading that involves books. Our reading should include more than just christian blogs and podcasts. There is something about engrossing yourself in a book that at times requires sheer effort to work through; this effort is simply not required in other mediums. Blogs, tweets, facebook posts, podcasts simply do not compare (although podcasts might come the closest). 
+<br> 
+In the online mediums, the writer is often concerned about page views and the spread of their content, so any phrase or word that won’t tend to that end gets removed. Or, if you disagree you can just close your browser and find another article. But with a book, you’re bound to find something you disagree with, and if you’re diligent you’ll grow in your own perspective as you wrestle with new ideas.
 <br>
 
 Plus, you’ve already bought the book at that point, so the author is freed from having to cater to you for money.
@@ -63,17 +64,20 @@ If you’re of the programming persuasion, here are some cool things about the g
 <br>
 
 The frontend is 
+<br>
   - written in [Aurelia](aurelia.io), a snazzy front-end framework
   - bundled with [Webpack](webpack.io), which I love so much for ease of use; other bundlers are squares
   - deployed to an S3 bucket that sits behind a CloudFront CDN
 <br>
 
 The backend is all AWS, which consists of 
+<br>
   - an API Gateway that defines resources such as blogpost, booksummary, and the like, with almost all GET requests
   - the API triggers reeeeeeeeaaaalllly simple AWS Lambda functions written in node, which are essentially wrappers around database queries
 <br>
 
 The database looks like
+<br>
   - a pretty simple RDS Postgres instance that houses metadata like titles, summaries, dates, tags, teaser text, and the like
   - a GitHub repository to store raw article content; AWS is expensive, and GitHub allows 5,000 requests per hour per repo on their free tier 😍
 <br>
