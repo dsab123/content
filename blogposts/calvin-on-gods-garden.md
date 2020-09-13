@@ -2,7 +2,7 @@
 <img src="2ecabb31b519208635a25f9cf0232888.jpg" class="post-image" alt="image of commentaries on bookshelf" title="Look at this majestic bookshelf">
  
 <br>
-So, I have awesome friends who got me Calvin’s complete commentary set in print as a wedding gift. Thanks, Grace-Growers! 😍
+So, I have awesome friends who got me Calvin’s complete commentary set in print as a wedding gift. Thanks, Grace-Growers (or Young Adult Hip Fellowship, or whatever we are calling ourselves these days)! 😍
 <br>
 
 I had a wonderful reading in Isaiah 27:1–6 the other day, and Calvin’s notes sweetened the time of communion with the Lord.
