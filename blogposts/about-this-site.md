@@ -90,10 +90,9 @@ Though I’m proud of the little infrastructure I’ve built for the site, I don
 - how to set up some kind of Server-Side Rendering for SEO purposes, which I don’t know how to do right now because I’m running a serverless backend
 - looking at Infrastructure-as-Code solutions like Terraform (or Netlify? or Ansible?) to store my AWS infrastructure in source control
 - how to use Service Workers to cache blogposts and enable a smoother user experience
+<br>
 
 Wow, thanks for reading this far! If the technical aspect interests you I’d love to hear why. [Email me about it](mailto:dsabbaghumd@gmail.com).
 <br>
 
 Now, go read my blog and buy some good books.
-<br>
-<br>
