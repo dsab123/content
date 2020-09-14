@@ -50,7 +50,7 @@ To that end, I plan to blog about spiritual things, and to write book summaries 
 I’ve signed up for Amazon’s affiliate program, which means whenever you buy a book through a link on this site, I get a tiny cut of the profits. The money I’ll be making isn’t a substitute for a real job, but a couple bucks a month would be pretty sweet.
 <br>
 
-Please drop me an [email](mailto:dsabbaghumd@gmail.com) letting me know what you think about this endeavor.
+Please drop me an <a href="mailto:dsabbaghumd@gmail.com" target="_blank">email</a> letting me know what you think about this endeavor.
 <br>
 
 There’s a second reason to the question “Why blog?” The answer is to keep up my software skills, hence this site being written from scratch. If techy things are in your purview, read on. If not, I won’t be offended, ha!
