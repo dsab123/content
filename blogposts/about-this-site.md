@@ -24,7 +24,7 @@ Not too long after I began reading, I found myself writing. Mostly about those s
 I've had this blog up in some form or another since 2015, and it’s served me well to that end. On the prior incarnation of this [about page](http://old-danielsabbaghcom-website.s3-website-us-east-1.amazonaws.com/blog/2015/why-blog/), I said that my writing was mainly for me and my career, not for you:
 <br>
 
-<img src="2d4edc3bc98956a77b3bf06fea7e6bff.jpg" class="post-image" alt="image of old about page" title="Beware the font whiplash and incoherent short sentences">
+<img src="bed18732698d622b90b9500ebc9c0fc5.jpg" class="post-image" alt="image of old about page" title="Beware the font whiplash and incoherent short sentences">
 <br>
 
 I don’t agree with my younger self anymore. If writing aids my communication, as I say in the second sentence, then my writing by definition is for you. Because writing is a form of communication. 
