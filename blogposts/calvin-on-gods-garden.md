@@ -99,14 +99,16 @@ Zephaniah 3:17
 And not only is God the joyful recipient of the fruit, He is the one who tends the garden that produces it. Calvin mentions the “two instances of His diligence, that He will ‘water it every moment’, and will defend it against the attacks of robbers and cattle and other annoyances. These are the two things chiefly required in preserving a vineyard, cultivation and protection.” And “though the vine may suffer many attacks, and though enemies and wild beasts may assail it with great violence, God declares that He will interpose to preserve it unhurt and free from all danger.” There is no wrath in Him towards His precious vineyard — “if we know that God has called us, we may justly conclude that He is not angry with us, and that, having embraced us with a firm and enduring regard, it is impossible that He shall ever deprive us of it.”
 <br>
 
-If we recall the Garden of Eden imagery, we’ll remember that tending the garden was a task that fell to Adam. The gospel and the incarnation shine brightly here, if we remember Christ-Adam dichotomy: _where Adam failed, Christ succeeded._ Adam failed to tend the garden of God, broke covenant with Him, failed to slay the serpent, so Christ comes as a man to purify the garden from its thistles, earn back favor with God, slay the dragon. (The Federal Visionist won’t appreciate the pairings in that last sentence, to which I reply, "_u mad bro?_" 😁 ).
+If we recall the Garden of Eden imagery, we’ll remember that tending the garden was a task that fell to Adam. The gospel and the incarnation shine brightly here, if we remember the Christ-Adam dichotomy: _where Adam failed, Christ succeeded._ Adam failed to tend the garden of God, broke covenant with Him, failed to slay the serpent, so Christ comes as a man to purify the garden from its thistles, earn back favor with God, slay the dragon. (The Federal Visionist won’t appreciate the pairings in that last sentence, to which I reply, "_u mad bro?_" 😁 ).
 <br>
 
-The end result of this dragon-slaying, garden-tending work of God-in-Christ is that His church, the seemingly-dead, almost cut-off root of Jacob, will in coming days blossom and bud and cover the whole earth, as the Garden of Eden should have. This work was begun “at the coming of Christ, who collected and multiple the people of God by the gospel.”
+The end result of this dragon-slaying, garden-tending work of God-in-Christ is that His church, the seemingly-dead, almost cut-off root of Jacob, will in coming days blossom and bud and cover the whole earth, as the Garden of Eden should have. This work was begun “at the coming of Christ, who collected and multiplied the people of God by the gospel.”
 <br>
 
 How wonderfully encouraging to know the zeal with which our Heavenly Husbandman keeps and tends His garden, which we are!
 <br>
+
+Thanks to Jenn for her edits on this post!
 <br>
 
 **_NOTE: this kind of biblical interpretation is formally known as_ Biblical Theology. (The name is a misnomer, as all good theology is Biblical.) What is in view in this interpretive approach is a focus on the organic unity of the Bible, from start to finish. Bible teacher Nancy Guthrie has written an accessible intro to Biblical Theology, which I plan to review in the near term, entitled <a href="https://amzn.to/3lUmOAx" target="_blank">Even Better Than Eden</a>). _Let me know if you pick up a copy!_**
