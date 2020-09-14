@@ -6,7 +6,7 @@ One of the things I like to do is collect important phrases and quotes from my r
 Here are some interesting excerpts and summary statements from the first four chapters of _Sapiens_, by Yuval Noah Harari. 
 <br>
 
-_You'll notice that each chapter summary gets longer; this is because the book is so engrossing. There is too much good writing in this volume. I highly recommend getting yourself a copy, which you can do through my affiliate link <a href="https://amzn.to/3bJjxiS" target="_blank">here</a>.
+_You'll notice that each chapter summary gets longer; this is because the book is so engrossing. There is too much good writing in this volume. I highly recommend getting yourself a copy, which you can do through my affiliate link <a href="https://amzn.to/3bJjxiS" target="_blank">here</a>._
 <br>
 
 As a Christian, I disagree with most of what he says. We should read those who disagree with what we believe. Unfortunately, far too often dialogue between those who hold to opposing viewpoints is littered with the stubbly remains of poor strawmen who have been beaten to death. Against this backdrop, Harari's ability to correctly explain Christian belief is very refreshing. I consider this an gift because it is so rare.
