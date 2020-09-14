@@ -91,7 +91,7 @@ Though I’m proud of the little infrastructure I’ve built for the site, I don
 - how to use Service Workers to cache blogposts and enable a smoother user experience
 <br>
 
-Wow, thanks for reading this far! If the technical aspect interests you I’d love to hear why. [Email me about it](mailto:dsabbaghumd@gmail.com).
+Wow, thanks for reading this far! If the technical aspect interests you I’d love to hear why. <a href="mailto:dsabbaghumd@gmail.com" target="_blank">Email me about it</a>.
 <br>
 
 Now, go read my blog and buy some good books.
