@@ -13,7 +13,7 @@ I had very unsettled years, spiritually speaking, from about the time I was eigh
 <br>
 
 ### Reading
-I soon embraced reading as a spiritual discipline. I picked up Bibles and theology books wherever I could find them (shoutout to Value Village in PG), and began reading voraciously. Popular-level theology books were my mainstay for a while, but soon after I picked up church history surveys. Puritan works soon followed, which showed me [the loveliness and beauty of Christ](https://danielsabbagh.com/#/blog/15/o-consider-his-loveliness-and-beauty). After reading [a book about reading books](https://danielsabbagh.com/#/summary/4/lit), I learned that it was not a spiritually ‘lesser’ practice to read secular books. So I branched back into fiction and some classics, and the occasional bestseller. And when I started seminary, I added graduate-level books to the mix. A pretty wide span, eh?
+I soon embraced reading as a spiritual discipline. I picked up Bibles and theology books wherever I could find them (shoutout to Value Village in PG), and began reading voraciously. Popular-level theology books were my mainstay for a while, but soon after I picked up church history surveys. Puritan works soon followed, which showed me <a href="https://danielsabbagh.com/#/blog/15/o-consider-his-loveliness-and-beauty" target="_blank">the loveliness and beauty of Christ</a>. After reading <a href="https://danielsabbagh.com/#/summary/4/lit">a book about reading books</a>, I learned that it was not a spiritually ‘lesser’ practice to read secular books. So I branched back into fiction and some classics, and the occasional bestseller. And when I started seminary, I added graduate-level books to the mix. A pretty wide span, eh?
 <br>
 
 ### Writing
@@ -21,7 +21,7 @@ Not too long after I began reading, I found myself writing. Mostly about those s
 <br>
 
 ## Why Blog?
-I've had this blog up in some form or another since 2015, and it’s served me well to that end. On the prior incarnation of this [about page](http://old-danielsabbaghcom-website.s3-website-us-east-1.amazonaws.com/blog/2015/why-blog/), I said that my writing was mainly for me and my career, not for you:
+I've had this blog up in some form or another since 2015, and it’s served me well to that end. On the prior incarnation of this <a href="http://old-danielsabbaghcom-website.s3-website-us-east-1.amazonaws.com/blog/2015/why-blog/" target="_blank">about page</a>, I said that my writing was mainly for me and my career, not for you:
 <br>
 
 <img src="bed18732698d622b90b9500ebc9c0fc5.jpg" class="post-image" alt="image of old about page" title="Beware the font whiplash and incoherent short sentences">
@@ -66,8 +66,8 @@ If you’re of the programming persuasion, here are some cool things about the g
 
 The frontend is 
 <br>
-  - written in [Aurelia](https://aurelia.io), a snazzy front-end framework
-  - bundled with [Webpack](https://webpack.js.org), which I love so much for ease of use; other bundlers are squares
+  - written in <a href="https://aurelia.io" target="_blank">Aurelia</a>, a snazzy front-end framework
+  - bundled with <a href="https://webpack.js.org" target="_blank">Webpack</a>, which I love so much for ease of use; other bundlers are squares
   - deployed to an S3 bucket that sits behind a CloudFront CDN
 <br>
 
