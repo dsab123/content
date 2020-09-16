@@ -5,9 +5,8 @@ I've compiled much of what I've learned from these books, what has worked well f
 
 This outline is heavily influenced by <a href="https://amzn.to/2QLitRO" target="_blank">Prayer</a> by Tim Keller and <a href="https://amzn.to/2Dnh6Wq" target="_blank">Walking with Jesus Through His Word</a> by Dennis Johnson.
 <br>
-<br>
+
 Hope its helpful!  
-<br>
 <br>
 
 General Study  
