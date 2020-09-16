@@ -10,6 +10,7 @@ Hope its helpful!
 <br>
 <br>
 
+General Study  
 - Outline  
 - Observations  
 - Interpretation/Application  
