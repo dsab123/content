@@ -27,7 +27,7 @@ Hope its helpful!
 - Paraphrase the section/verse in one sentence or phrase  
 <br>
 
-Identifying and understanding how "Scripture speaks of God’s role as the Lord of the covenant, and how Jesus the God-man fulfills these roles” (Walking With Jesus Through His Word)
+Identifying and understanding how "Scripture speaks of God’s role as the Lord of the covenant, and how Jesus the God-man fulfills these roles” (Walking With Jesus Through His Word)  
 <br>
 - How does the covenant theme in this passage inform:  
     - The identity of the Lord as triune  
