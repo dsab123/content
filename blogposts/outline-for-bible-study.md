@@ -6,27 +6,25 @@ I've compiled much of what I've learned from these books, what has worked well f
 This outline is heavily influenced by <a href="https://amzn.to/2QLitRO" target="_blank">Prayer</a> by Tim Keller and <a href="https://amzn.to/2Dnh6Wq" target="_blank">Walking with Jesus Through His Word</a> by Dennis Johnson.
 <br>
 
-Hope its helpful!
+Hope its helpful!  
 <br>
 
-- Outline
+- Outline  
+- Observations  
+- Interpretation/Application  
+- What does this teach me about:  
+  - God and His character?  
+  - Human nature, character, and behavior?  
+  - Christ and His salvation?  
+  - The church, or life in the people of God?  
+- Application questions (any personal examples to emulate or to avoid, for any commands to obey, for any promises to claim, and for any warnings to heed)  
+  - Am I living in light of this?  
+  - What difference does this make?  
+  - Am I taking this seriously?  
+  - If I believed and held to this, how would that change things?  
+  - When I forget this, how does that affect me and all my relationships?  
+- Paraphrase the section/verse in one sentence or phrase  
 <br>
-- Observations
-<br>
-- Interpretation/Application
-<br>
-- What does this teach me about:
-        - God and His character?
-        - Human nature, character, and behavior?
-        - Christ and His salvation?
-        - The church, or life in the people of God?
-    - Application questions (any personal examples to emulate or to avoid, for any commands to obey, for any promises to claim, and for any warnings to heed)
-        - Am I living in light of this?
-        - What difference does this make?
-        - Am I taking this seriously?
-        - If I believed and held to this, how would that change things?
-        - When I forget this, how does that affect me and all my relationships?
-    - Paraphrase the section/verse in one sentence or phrase
 
 Identifying and understanding how "Scripture speaks of God’s role as the Lord of the covenant, and how Jesus the God-man fulfills these roles” (Walking With Jesus Through His Word)
 - How does the covenant theme in this passage inform:
