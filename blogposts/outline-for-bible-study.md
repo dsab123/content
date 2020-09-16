@@ -5,8 +5,9 @@ I've compiled much of what I've learned from these books, what has worked well f
 
 This outline is heavily influenced by <a href="https://amzn.to/2QLitRO" target="_blank">Prayer</a> by Tim Keller and <a href="https://amzn.to/2Dnh6Wq" target="_blank">Walking with Jesus Through His Word</a> by Dennis Johnson.
 <br>
-
+<br>
 Hope its helpful!  
+<br>
 <br>
 
 - Outline  
@@ -26,13 +27,13 @@ Hope its helpful!
 - Paraphrase the section/verse in one sentence or phrase  
 <br>
 
-Identifying and understanding how "Scripture speaks of God’s role as the Lord of the covenant, and how Jesus the God-man fulfills these roles” (Walking With Jesus Through His Word)
-- How does the covenant theme in this passage inform:
-    - The identity of the Lord as triune
-    - The Lord’s __preparation and initiation__ of his covenant with humanity, in creation and redemption
-    - The Lord as __Provider__, loving husband of his bride and faithful shepherd for his sheep
-    - The Lord as __Commander__, directing the thoughts, words, and deeds of His servants
-    - The Lord as __Judge__ of His servants and His enemies
+Identifying and understanding how "Scripture speaks of God’s role as the Lord of the covenant, and how Jesus the God-man fulfills these roles” (Walking With Jesus Through His Word)  
+- How does the covenant theme in this passage inform:  
+    - The identity of the Lord as triune  
+    - The Lord’s __preparation and initiation__ of his covenant with humanity, in creation and redemption  
+    - The Lord as __Provider__, loving husband of his bride and faithful shepherd for his sheep  
+    - The Lord as __Commander__, directing the thoughts, words, and deeds of His servants  
+    - The Lord as __Judge__ of His servants and His enemies  
 <br>
 
 Identifying Jesus as the Servant of the Lord
