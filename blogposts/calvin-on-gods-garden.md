@@ -2,13 +2,13 @@
 <img src="2ecabb31b519208635a25f9cf0232888.jpg" class="post-image" alt="image of commentaries on bookshelf" title="Look at this majestic bookshelf">
  
 <br>
-So, I have awesome friends who got me Calvin’s complete commentary set in print as a wedding gift. Thanks, Grace-Growers (or Young Adult Hip Fellowship, or whatever we are calling ourselves these days)! 😍
+My wife and I have awesome friends who bought Calvin’s commentary set for us as a wedding gift. Thanks, Grace Church friends! 😍
 <br>
 
-I had a wonderful reading in Isaiah 27:1–6 the other day, and Calvin’s notes sweetened the time of communion with the Lord.
+I had a wonderful reading in Isaiah 27:1–6 a few days ago, and Calvin’s notes sweetened my reading.
 <br>
 
-Isaiah 27 has always been a favorite chapter of mine, as it likens God’s care of His people to that of a strong, capable farmer over his tender garden. I love garden passages in the Bible, because they are reminiscent of the idyllic life in the Garden of Eden that begins the whole sweeping narrative of the Scriptures.
+Isaiah 27 has always been a favorite chapter of mine. It compares God's care of His people with the care of a strong, capable farmer over his precious garden. Garden passages in the Bible are reminiscent of the idyllic life of our first parents. It is in that Garden of Eden that the sweeping narrative of the Scriptures begin.
 <br>
 
 Let’s look at the passage together, gleaning from Calvin’s insights along the way.
