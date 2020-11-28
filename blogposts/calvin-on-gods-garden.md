@@ -1,5 +1,4 @@
-
-<img src="2ecabb31b519208635a25f9cf0232888.jpg" class="post-image" alt="image of commentaries on bookshelf" title="Look at this majestic bookshelf">
+<div class="postImageContainer"><img src="/commentaries.jpg" class="nonMovingPostimage" alt="image of commentaries on bookshelf" title="Look at this majestic bookshelf"></div>
  
 <br>
 My wife and I have awesome friends who bought Calvin’s commentary set for us as a wedding gift. Thanks, Grace Church friends! 😍

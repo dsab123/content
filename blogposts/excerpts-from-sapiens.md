@@ -1,4 +1,5 @@
-<a href="https://amzn.to/3bJjxiS"><img src="7c4c3e4268d4de525bef89133874d0d0.jpg" class="post-image" alt="Sapiens book" title="I want to write like this man 😍"></a>
+<div class="postImageContainer"><a href="https://amzn.to/3bJjxiS"><img src="/sapiens.jpg" class="postImage" alt="Sapiens book" title="I want to write like this man 😍"></a></div>
+
 
 One of the things I like to do is collect important phrases and quotes from my reading. 
 <br>
@@ -21,20 +22,14 @@ Would that we all began discussion of our disagreements with each other by accur
 <br>
 
 - He labors to make the distinction between Homo Sapiens and the other “human” species known.
-<br>
 	- This is the high point of his labors, it seems to me: “Sapiens were already very different from Neandethals and Denisovans not only in their genetic code and physical traits, but also in their cognitive and social abilities, yet it appears it was still just possible, on rare occasions, for a Sapiens and a Neanderthal to produce a fertile offspring. So the populations did not merge, but a few lucky Neanderthal genes did hitch a ride on the Sapiens Express. It is unsettling — and perhaps thrilling — to think that we Sapiens could at one time have sex with an animal from a different species, and produce children together.” p. 17’
-<br>
-
 -   It is possible that Sapiens (which we are) killed out all other “human” species.
 <br>
 
 ### Chapter 2 — The Tree of Knowledge
 
 -   I feel that Harari pejoratively titles the first few chapters of the book using Christian language, but its entertaining!
-<br>
-
 -   Somehow (Harari asserts no one knows), Sapiens gained extraordinary cognitive abiliities. This was possibly due to some extreme conditions they had to endure. Harari calls this the “Tree of Knowledge” (p 21) mutation. The cognitive ability stemming from this mutation separated Sapiens from the other “humans”, most notably in their (our?) use of language. “What was so special about the new Sapiens language that it enabled us to conquer the world?” (p 22). His answer is that “our language is amazingly supple” (p 22). Sapiens learned to describe not only things that were there, i.e. “there’s a lion at the watering hole”, but things that weren’t there. Harari calls these things fictions. From these fictions emerged all religions and tribal legends. What’s more, modern Sapiens still engage in fiction-telling. He goes into detail on the history of Peugeot, one of the first Limited Liability Corporations. As an LLC, Peugeot does not consist of, or exist in, its employees, or its factories, or products. It is a fictional entity. So with Christianity, Islam, and many other invisible systems we have created in order to accomplish things. At this moment you’d expect him to lash into organized religion and explain why it is an evil that must be abolished. However, he does something unexpected: he says that these fictions are important because they allow us to engage in these myths collectively, that is, with other Sapiens. “Any large-scale human corporation — whether a modern state, a medieval church, an ancient city or an archaic tribe — is rooted in common myths that exist only in people’s collective imagination. Churches are rooted in common religious myths. Two Catholics who have never met can nevertheless go together on crusade or pool funds to build a hospital because they both believe that God was incarnated in human flesh and allowed Himself to be crucified to redeem our sins. States are rooted in common national myths.” (p 27). “Our modern institutions function on exactly the same basis” as these religious or national myths (p 28). And it was these kind of myths that allowed Sapiens to “conquer the world”, whether in hunting groups of animals (or tragically, other “humans”), or in tearing down a forest to produce an apartment complex.
-<br>
 	- I must commend him on his accurate representation of Christian teaching! ❤️ It's refreshing when someone who disagrees with you is able to state your position accurately.
 <br>
 
