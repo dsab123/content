@@ -1,4 +1,4 @@
-<a href="https://amzn.to/3bJjxiS"><img src="/prayer.jpg" class="post-image" target="_blank" alt="Prayer book" title="THIS BOOK IS AWESOME Taylor <3 I love you and miss you"></a>
+<div><a href="https://amzn.to/3bJjxiS"><img src="/prayer.jpg" class="postImage" target="_blank" alt="Prayer book" title="THIS BOOK IS AWESOME Taylor <3 I love you and miss you"></a></div>
 
 *Prayer* by Keller is a very helpful book that collects the thoughts of Calvin, Luther, and Augustine on the subject of Prayer.
 <br>
@@ -15,25 +15,19 @@ Luther's recommended beginning prayer (p 71):
 ## Augustine's principles of prayer in his letter to Phoba (p 84ff):
 - "You must count yourself desolate in the world" apart from Christ, his Disordered Loves theme
     - Eyes must be fixed on Christ as the only source of lasting peace, happiness, and joy
-<br>
 - "Pray for a happy life"
-<br>
     - If you've grasped the first rule, your prayer will be like Psalm 27:4 in that our greatest desire would be to know Him more.
     - Even in asking for worldly needs, our ultimate desire is to keep Him as the First Love.
         - The Lord's Prayer as a good example of this
             - Proverbs 30:7-9 "reveals the only proper motive" behind the individual requests in the Lord's Prayer
-<br>
 - Now, we can begin to study the Lord's Prayer and "make sure all our appeals fit it"
-<br>
     - "Once you have learn to pray in full awareness of the disorderedness of your heart and where true joys are found, he says, you can be guided in the specifics of how to pray by studying the Lord's Prayer."
         - Following this is a helpful analysis of its parts, ACTS (Adoration, Confession, Thanksgiving, Petition), etc.
-<br>
 - Regarding prayer in difficult times - when we are unsure how to pray, look to Jesus's prayer in Gethsemane
 <br>
     - "Let this cup pass from me - nevertheless, not my will but thine be done"
         - Perfect balance of honest desire and submission
         - Romans 8:26 - we do not know what to pray for oftentimes, the Spirit helps us in our weakneses.
-<br>
 <br>
 
 ---------------
