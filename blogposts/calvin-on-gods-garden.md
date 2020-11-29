@@ -1,21 +1,20 @@
 <div class="postImageContainer"><img src="/commentaries.jpg" class="nonMovingPostimage" alt="image of commentaries on bookshelf" title="Look at this majestic bookshelf"></div>
  
-<br>
-My wife and I have awesome friends who bought Calvin’s commentary set for us as a wedding gift. Thanks, Grace Church friends! 😍
-<br>
-
-I had a wonderful reading in Isaiah 27:1–6 a few days ago, and Calvin’s notes sweetened my reading.
+Did you know that the Bible speaks at length about gardens?
 <br>
 
-Isaiah 27 has always been a favorite chapter of mine. It compares God's care of His people with the care of a strong, capable farmer over his precious garden. Garden passages in the Bible are reminiscent of the idyllic life of our first parents. It is in that Garden of Eden that the sweeping narrative of the Scriptures begin.
+It both begins and ends in a garden, and in almost every book in between the first and the last develop and grow this garden theme.
 <br>
 
-Let’s look at the passage together, gleaning from Calvin’s insights along the way.
+Well, a few days ago I came across one of those passages in the Bible, Isaiah 27:1-6. I noticed the garden language and turned to Calvin to help me tease it out.
 <br>
 
-> _ In that day the LORD with His hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and He will slay the dragon that is in the sea. _
+So let’s look at the passage together, gleaning from Calvin’s insights along the way.
 <br>
-_ In that day,
+
+_In that day the LORD with His hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and He will slay the dragon that is in the sea. _
+
+_In that day,
 <br>
 “A pleasant vineyard, sing of it!
 <br>
@@ -45,10 +44,10 @@ In days to come Jacob shall take root,
 <br>
 &nbsp; &nbsp; Israel shall blossom and put forth shoots
 <br>
-&nbsp; &nbsp; and fill the whole world with fruit. _
+&nbsp; &nbsp; and fill the whole world with fruit._
 <br>
 
-## _From Serpent to Leviathan_
+## _From Small Serpent to Full-grown Leviathan_
 Immediately we are confronted with the phrase "In that day", which we also encounter in the next section of our passage. This phrase is a favorite of the Old Testament writers, and particularly Isaiah, who uses it some forty times to describe the end of the world, with all that it entails. 
 <br>
 
@@ -95,7 +94,7 @@ He will rejoice over you with loud singing.”_
 Zephaniah 3:17
 <br>
 
-And not only is God the joyful recipient of the fruit, He is the one who tends the garden that produces it. Calvin mentions the “two instances of His diligence, that He will ‘water it every moment’, and will defend it against the attacks of robbers and cattle and other annoyances. These are the two things chiefly required in preserving a vineyard, cultivation and protection.” And “though the vine may suffer many attacks, and though enemies and wild beasts may assail it with great violence, God declares that He will interpose to preserve it unhurt and free from all danger.” There is no wrath in Him towards His precious vineyard — “if we know that God has called us, we may justly conclude that He is not angry with us, and that, having embraced us with a firm and enduring regard, it is impossible that He shall ever deprive us of it.”
+And not only is God the joyful recipient of the fruit, He is the one who tends the garden that produces it. Calvin mentions the “two instances of His diligence, that He will ‘water it every moment’, and will defend it against robbers, wanton cattle and other threats. These are the two things chiefly required in preserving a vineyard, cultivation and protection.” And “though the vine may suffer many attacks, and though enemies and wild beasts may assail it with great violence, God declares that He will interpose to preserve it unhurt and free from all danger.” There is no wrath in Him towards His precious vineyard — “if we know that God has called us, we may justly conclude that He is not angry with us, and that, having embraced us with a firm and enduring regard, it is impossible that He shall ever deprive us of it.”
 <br>
 
 If we recall the Garden of Eden imagery, we’ll remember that tending the garden was a task that fell to Adam. The gospel and the incarnation shine brightly here, if we remember the Christ-Adam dichotomy: _where Adam failed, Christ succeeded._ Adam failed to tend the garden of God, broke covenant with Him, failed to slay the serpent, so Christ comes as a man to purify the garden from its thistles, earn back favor with God, slay the dragon. (The Federal Visionist won’t appreciate the pairings in that last sentence, to which I reply, "_u mad bro?_" 😁 ).
@@ -104,7 +103,7 @@ If we recall the Garden of Eden imagery, we’ll remember that tending the garde
 The end result of this dragon-slaying, garden-tending work of God-in-Christ is that His church, the seemingly-dead, almost cut-off root of Jacob, will in coming days blossom and bud and cover the whole earth, as the Garden of Eden should have. This work was begun “at the coming of Christ, who collected and multiplied the people of God by the gospel.”
 <br>
 
-How wonderfully encouraging to know the zeal with which our Heavenly Husbandman keeps and tends His garden, which we are!
+How wonderfully encouraging to see the zeal with which our Heavenly Gardener keeps and tends His garden, which we are!
 <br>
 
 Thanks to Jenn for her edits on this post!
