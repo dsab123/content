@@ -13,9 +13,9 @@ Isaiah 27 has always been a favorite chapter of mine. It compares God's care of 
 Let’s look at the passage together, gleaning from Calvin’s insights along the way.
 <br>
 
-> _In that day the LORD with His hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and He will slay the dragon that is in the sea._
+> _ In that day the LORD with His hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and He will slay the dragon that is in the sea. _
 <br>
-_In that day,
+_ In that day,
 <br>
 “A pleasant vineyard, sing of it!
 <br>
@@ -45,7 +45,7 @@ In days to come Jacob shall take root,
 <br>
 &nbsp; &nbsp; Israel shall blossom and put forth shoots
 <br>
-&nbsp; &nbsp; and fill the whole world with fruit._
+&nbsp; &nbsp; and fill the whole world with fruit. _
 <br>
 
 ## _From Serpent to Leviathan_
