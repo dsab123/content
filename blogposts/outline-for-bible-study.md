@@ -1,4 +1,4 @@
-Over the course of the last seven years I've read quite a few books on how to study the Bible.  
+In the last seven years I've read many books on how to study the Bible.
 
 I've compiled much of what I've learned from these books, what has worked well for me, into this outline. When I want to dive deep into a book of the Bible, I copy this template, and begin working my way through the questions. I don't answer all of them every time, my goal is to feel my heart rise up in affection toward the Lord. Then I transition to prayer. More on that process in another post.
 <br>
