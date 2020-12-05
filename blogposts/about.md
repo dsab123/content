@@ -16,7 +16,7 @@ Good reading gets you outside of yourself. It forces you to slow down a bit, and
 
 I could keep going on the benefits of reading, but like a good book I'll mete that information out over time and across the site.
 
-Congratulations on making it this far in the post.
+Congratulations on making it this far, you're almost done!
 
 <div class="postImageContainer"><img src="/wedding.jpg" class="nonMovingPostimage" alt="wedding picture" title="I know, I know... my tie isn't straight"></div>
 
