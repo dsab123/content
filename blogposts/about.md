@@ -1,4 +1,4 @@
-###My mission is to get you to read to the end of this post.###
+### My mission is to get you to read to the end of this post. ###
 
 Which is in itself part of my larger mission to help you read more and read better.
 
@@ -18,7 +18,7 @@ I could keep going on the benefits of reading, but like a good book I'll mete th
 
 Congratulations on making it this far in the post.
 
-div class="postImageContainer"><img src="/wedding.jpg" class="nonMovingPostimage" alt="wedding picture" title="I know, I know... my tie isn't straight"></div>
+<div class="postImageContainer"><img src="/wedding.jpg" class="nonMovingPostimage" alt="wedding picture" title="I know, I know... my tie isn't straight"></div>
 
 To round out this post, a bit about me:
 * I'm a professional human being
