@@ -8,7 +8,7 @@ But why? What's so great about reading?
 
 Because __reading has become essential.__
 
-Our lives have become fast-paced happy nightmares in the west. You often find yourself ruled by the tyranny of your efficiency or the tyranny of your laziness, depending on the day. I know I do. And both of these tyrants are commanding, pressuring you to do what you do quickly. Do you find yourself given over to "getting stuff done", or binging on Netflix? I bet both of those desires are at times all-consuming. During the day your enjoy yourself, but at the end of the day you look back and see either the time you wasted or the people you hurt by of your actions.
+Our lives in the west have become fast-paced happy nightmares. You often find yourself ruled by the tyranny of your efficiency or the tyranny of your laziness, depending on the day. I know I do. And both of these tyrants are commanding, pressuring you to do what you do quickly. Do you find yourself given over to "getting stuff done", or binging on Netflix? I bet these desires are all-consuming. During the day you enjoy yourself, but at the end of the day you look back and see either the time you wasted or the people you hurt by your actions.
 
 Well, reading can help with that. Reading can change your life.
 
