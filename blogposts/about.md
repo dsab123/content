@@ -18,7 +18,7 @@ I could keep going on the benefits of reading, but like a good book I'll mete th
 
 Congratulations on making it this far, you're almost done!
 
-<div class="postImageContainer"><img src="/wedding.jpg" class="nonMovingPostimage" alt="wedding picture" title="I know, I know... my tie isn't straight"></div>
+<div class="postImageContainer"><img src="/blogpost/wedding.jpg" class="nonMovingPostimage" alt="wedding picture" title="I know, I know... my tie isn't straight"></div>
 
 To round out this post, a bit about me:
 * I'm a professional human being
