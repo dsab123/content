@@ -6,6 +6,7 @@ The author, Tony Reinke, wants to give us a robust theology of reading in this g
 ## Chapter 1: Paper Pulp and Etched Granite: Laying the cornerstone of our theology of books
 
 _**TL;DR** - We must have a high view of Scripture, which Reinke calls the 'Etched Granite’, over and above the uninspired works of men, dubbed 'Paper Pulp.'_
+<br>
 
 "The day God ran His fingertip over the stone tablets was the day that He forever shaped the world of book publishing."
 
@@ -33,6 +34,7 @@ Reinke quotes Spurgeon to close out the chapter:
 ## Chapter 2: Wide-Eyed Into The Son: How personal sin and the gospel shape our literacy
 
 _**TL;DR** - Genuine conversion is vital for spiritual benefit when reading both the Scriptures and other books._
+<br>
 
 Regeneration is needed to gain this benefit: "This act of illumination is so powerful and so obviously the handiwork of God that the fitting metaphor is God’s ignition of the sun in our solar system: "For God, who said, 'Let light shine out of darkness, has shone in our hearts to give the light of the knowledge of the Glory of God in the face of Jesus Christ" (2 Corinthians 4:6).
 
@@ -75,9 +77,8 @@ Coming full circle, "the point of this chapter is simple: the difficult work req
 <br>
 
 ## Chapter 4: Reading From Across the Canyon: How a Biblical Worldview Equips us to benefit from books
-<br>
-
 _**TL;DR** - Here is a basic Biblical Worldview that we can use to examine books that we read._
+<br>
 
 "The general plot of the Biblical story hangs on the progress of creation, fall, redemption, and restoration. Within this plot we learn propositional truths that inform us about the activity of God, the condition of the world, the dignity of humanity, the sin in our hearts, the work of our Savior, the return of our Savior, and the restoration of nature. The Bible answers the important questions."
 
@@ -109,9 +110,8 @@ As long as we’re aware that the books we read present faulty worldviews, we ca
 <br>
 
 ## Chapter 5: The Giver’s Voice: Seven Benefits of Reading Non-Christian Books
-<br>
-
 _**TL;DR** - We shouldn't read only Christian books._
+<br>
 
 The best secular books contain truth in them, and that truth can be used by Christians and is important for them to know. If we broad-brush all secular books as worldly and as having nothing to offer us, we’re offending the Spirit, who is the giver of all truth, even to those who are not believers.
 
@@ -132,9 +132,8 @@ The Seven Benefits of reading Non-Christian Literature:
 <br>
 
 ## Chapter 6: The God Who Slays Dragons: The Purifying Power Of A Christian Imagination
-<br>
-
 _**TL;DR** - Use our imaginations to "see" certain Biblical realities more clearly!_
+<br>
 
 Reinke introduces two kinds of imagination:
 - *Primary* Imagination is used when we imagine something mundane. This doesn’t use much imagination at all.
