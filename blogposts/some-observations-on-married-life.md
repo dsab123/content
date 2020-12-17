@@ -1,10 +1,10 @@
 <div class="postImageContainer"><img src="/blogpost/couple.jpg" class="nonMovingPostimage" alt="happy couple" title="this looks quite dangerous"></div>
 
-So a wonderful couple at our church is moving away for a while. Having seen their godly example in our church, my fiancé and I, on the cusp of marriage, asked if they were available for a double date. We made our ulterior motive known — we were hoping to ask them a whole bunch of questions about married life.
+So a wonderful couple at our church is moving away for a while. Having seen their godly example in our church, my fiancé and I, on the cusp of marriage, asked if they were available for a double date. We made our reasons plain — we were hoping to ask them a whole bunch of questions about married life.
 
 We found this discussion very helpful, so I’m putting up an edited version of our topics of discussion. Peppered throughout are book recommendations.
 
-### Family Relationships
+## Family Relationships
 -   Of all the siblings, they ask for the least help from their parents. This gives much room for growth, and enables you to be fully independent.
 -   Family relations are often sources of conflict; it is good to have a respectable distance.
 -   Part of growing into marriage is learning to be distant from family, and learning to be gracious to them as if you're gracious to strangers.
