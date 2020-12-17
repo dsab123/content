@@ -1,70 +1,63 @@
-I had a really good reading this morning in _Psalms By The Day_, by Alec Motyer, on Psalms 97 and 98. Below is his translation of the two psalms, along with his own divisions and sub-headings.
-<br>
+I had a really good reading this morning in _Psalms By The Day_, by Alec Motyer, on Psalms 97 and 98. Below is his translation of the two psalms.
+
+Note with his divisions and sub-headings, which are quite remarkable. He finds chiasms in many place where they aren't easily seen!
 
 ## Psalm 97
-### A.1 Reigning God: rejoicing world
-> 1.  _Yahweh is king:
-<br>
-let the earth exult;
-<br>
-let the abundance of coastlands rejoice._
-<br>
+### A.1 Reigning God: Rejoicing World
+> 1.  _Yahweh is king:_
+>>>_let the earth exult;_
+>>>_let the abundance of coastlands rejoice._
 
-### B.1. The world-rule of the righteous God
+### B.1. The world-rule of the Righteous God
 _(His throne)_
-> 2. _Clouds and darkness surround Him;
-<br>
-righteousness and judgement are the basis of His throne._
-<br>
+> 2. _Clouds and darkness surround Him;_
+>>>_righteousness and judgement are the basis of His throne._
 
 _(His enemies)_
-> 3. _Before Him, what a fire goes!
-<br>
-And it consumes His adversaries all round._
-<br>
+> 3. _Before Him, what a fire goes!_
+>>>_And it consumes His adversaries all round._
 
 _(His presence)_
 > 4. _His lightning illuminates the world of people;_
-_the world of people sees and writhes._
+>>>_the world of people sees and writhes._
+
 > 5. _Even mountains melt like wax because of Yahweh's presence -_
-_because of the presence of the Sovereign of all the earth._
+>>>_because of the presence of the Sovereign of all the earth._
 
 _(Cosmic revelation)_
 > 6. _The heavens have declared His righteousness,_
-_and all the people will see His glory._
+>>>_and all the people will see His glory._
 
 ### C.1. The shaming of idolaters; the submission of their gods
 > 7. _All those who serve an idol will reap shame —_
-_who are making their boast in the godlets._
-_Bow in worship to Him, all you gods!_
-  
+>>>_who are making their boast in the godlets._
+>>>_Bow in worship to Him, all you gods!_
+
+<br>
+
 ### A.2. Revealing God: rejoicing church
-> 8. _Zion has heard and rejoiced,
-<br>
-and the daughters of Judah have exulted
-<br>
-because of Your judgements, Yahweh,_
-<br>
+> 8. _Zion has heard and rejoiced,_
+>>>_and the daughters of Judah have exulted_
+>>>_because of Your judgements, Yahweh,_
 
 ### B.2. The supernatural rule of the Most High God
 > 9. _because You, Yahweh, are Most High over all the earth._
-_Exceedingly You are exalted over all gods._
+>>>_Exceedingly You are exalted over all gods._
 
 ### C.2. The joy of the righteous in a God of salvation
 _(Moral commitment)_
 > 10. _O you who love Yahweh, hate evil._
-<br>
 
 _(Guaranteed care and enrichment)_
 >> _He simply keeps the souls of His beloved;_
-_from the hand of the wicked He delivers them._
-<br>
+>>>_from the hand of the wicked He delivers them._
 
 > 11. _Light is sown for the righteous,_
-_and for the upright in heart rejoicing._
- _(Joy in a revealed God)_
+>>>_and for the upright in heart rejoicing._
+
+_(Joy in a revealed God)_
 > 12. _Rejoice, you righteous ones in Yahweh,_
-_and give thanks to the memorial of His holiness._
+>>>_and give thanks to the memorial of His holiness._
 <br>
 
 ## Psalm 98
