@@ -114,7 +114,7 @@ Pulling from 1 Corinthians, the authors remind us that Christians are one body w
 _**TL;DR** - Psalm 42 is proof that emotions simply don't come and go when we tell them to. Emotion-change comes along with heart-change, which God promises by His Spirit._
 <br>
 
-(I'd been waiting to get to ever since I read the its title in the table of contents!)
+(I'd been waiting to get to this chapter ever since I read the its title in the table of contents!)
 
 "Why do we so often feel like our emotions are controlling us rather than the other way around? Why can't we simply choose to feel different any time we want to (76)?"
 
