@@ -15,7 +15,7 @@ As a Christian, I disagree with a lot of what he says, but can still recommend h
 Would that we all began discussion of our disagreements with each other by accurately stating what the other person believes!
 <br>
 
-### Chapter 1 — An Animal of No Significance
+## Chapter 1 — An Animal of No Significance
 
 First few paragraphs are captivating! Starting at the most basic of particles, Harari zooms out little by little, introducing us to the relationship between physics, chemistry, and biology along the way, to stop at history.
 
@@ -25,7 +25,7 @@ He labors to make the distinction between Homo Sapiens and the other "human" spe
 It is possible that Sapiens (which we are) killed out all other "human" species.
 <br>
 
-### Chapter 2 — The Tree of Knowledge
+## Chapter 2 — The Tree of Knowledge
 
 I feel that Harari pejoratively titles the first few chapters of the book using Christian language, but it sure is entertaining!
 
@@ -33,7 +33,7 @@ Somehow (Harari asserts no one knows), Sapiens gained extraordinary cognitive ab
 	- I must commend him on his accurate representation of Christian teaching! It's refreshing when someone who disagrees with you is able to state your position accurately.
 <br>
 
-### Chapter 3 — A Day in the Life of Adam and Eve
+## Chapter 3 — A Day in the Life of Adam and Eve
 
 Harari sketches with care the most likely activities of the Sapiens, while respecting that there is much we don't know. We have objective information about their health and eating habits, but are virtually clueless with respect to their religious beliefs and each Sapiens bands' interaction with one another. Knowing these things is important because "our eating habits, our conflicts and our sexuality are all the result of the way our hunter-gatherer minds interact with our current post-industrial environment, with its mega-cirities, aeroplanes, telephones and computers." (p 41).
 
@@ -48,7 +48,7 @@ With regard to religious belief, Sapiens were probably animists of some kind. Bu
 "Scholars tend to ask only those questions that they can reasonably expect to answer. Without the discovery of as yet unavailable research tools, we will probably never know what the ancient foragers believes or what political dramas they experienced. Yet it is vital to ask questions for which no answers are available, otherwise we might be tempted to dismiss 60,000 of 70,000 years of human history with the excuse that ‘the people who lived back then did nothing of importance.'" (p 61).
 <br>
 
-### Chapter 4 — The Flood
+## Chapter 4 — The Flood
 
 Prior to the "cognitive revolution", Homo sapiens lived on the afro-asian land mass. How did we end up with Sapiens colonies (bones, signs of life? Harari does not how we know Sapiens lived there) on the islands dating back to 45,000 years ago, Australia in particular? The majority theory is that soon after the cognitive revolution, Sapiens living on the Indonesian archipelago developed the technology to cross the sea and also "developed the first seafaring societies." (p 64).
 
