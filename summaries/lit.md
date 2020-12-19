@@ -5,7 +5,7 @@ The author, Tony Reinke, wants to give us a robust theology of reading in this g
 
 ## Chapter 1: Paper Pulp and Etched Granite: Laying the cornerstone of our theology of books
 
-_**TL;DR** - We must have a high view of Scripture, which Reinke calls the 'Etched Granite’, over and above the uninspired works of men, dubbed 'Paper Pulp.'_
+_**TL;DR** - We must have a high view of Scripture, which Reinke calls the 'Etched Granite’, over and above the uninspired works of men, or 'Paper Pulp.'_
 <br>
 
 "The day God ran His fingertip over the stone tablets was the day that He forever shaped the world of book publishing."
