@@ -12,7 +12,7 @@ _You'll notice that each chapter summary gets longer; this is because the book i
 As a Christian, I disagree with a lot of what he says, but can still recommend his work. We should read those who disagree with what we believe (see Chapter 5 of <a href="https://danielsabbagh.com/summary/4/lit" target="_blank">this book summary</a>). Unfortunately, far too often dialogue between those who hold to opposing viewpoints is littered with the stubbly remains of poor strawmen who have been beaten to death. Against this backdrop, Harari's ability to correctly explain Christian belief is very refreshing. I consider this an gift because it is so rare.
 <br>
 
-Would that we all began discussion of our disagreements with each other by accurately stating what the other person believes!
+If only we could disagree with each other charitably, and state what the other person believes accurately!
 <br>
 
 ## Chapter 1 — An Animal of No Significance
@@ -40,8 +40,8 @@ Harari sketches with care the most likely activities of the Sapiens, while respe
 With regard to religious belief, Sapiens were probably animists of some kind. But we can't press deeper: "Instead of erecting mountains of theory over a molehill of tomb relics, cave paintings and bone statuettes, it is better to be frank and admit that we have only the haziest notions about the religions of ancient foragers." (p 55).
 
 "There's hardly an activity, a belief, or even an emotion that is not mediated by objects of our own devising" (p 43), Harari says. In the context he is explaining why we cannot rely on physical artifacts too much to learn about our ancestors, who were nomadic and did not have many possessions.
-	- What is the relation between his statement and the Christian Sacraments? God knows our need for physical objects and mediates HIs grace to us through them ❤️    
-	- Consider Elisha's supernatural curing of the "death in the pot" by the use of flour, which was acting like a sacrament to ease the prophets' consciousnesses enough to allow them to eat.
+- What is the relation between his statement and the Christian Sacraments? God knows our need for physical objects and mediates HIs grace to us through them
+- Consider Elisha's supernatural curing of the "death in the pot" by the use of flour, which was acting like a sacrament to ease the prophets' consciousnesses enough to allow them to eat.
 
 "This curtain of silence" (that is, not knowing about much of our ancestors' lives) "shrouds thens of thousands of years of history. … This curtain is so thick that we cannot even be sure [speculations about Napoleons or Beethovens of the era] [existed] — let alone describe them in detail." (p 61).
 
@@ -67,15 +67,14 @@ Harari next describes how Sapiens crossed over to America — this time they had
 "The Americas were a great laboratory of evolutionary experimentation, a place where animals and plants unknown in Africa and Asia had evolved and thrived. But no longer." (p 71). Sapiens wiped out many of the thriving fauna.
 
 "Again, some scholars try to exonerate Homo sapiens and blame climate change (which requires them to posit that, for some mysterious reason, the climate in the Caribbean islands remained static for 7,000 years while the rest of the western hemisphere warmed). But in America, the dung ball cannot be dodged. We are the culprits. There is no way around that truth. Even if climate change abetted us, the human contribution was decisive." (p 72)
-
-- LOL at "dung ball cannot be dodged"; what a delightful writer this man is!
+- "the dung ball cannot be dodged"; what a delightful writer this man is!
 
 "The First Wave Extinction, which accompanied the spread of the foragers, was followed by the Second Wave Extinction, which accompanied the spread of the farmers, and gives us an important perspective on the Third Wave Extinction, which industrial activity is causing today. Don't believe tree-huggers who claim that our ancestors lived in harmony with nature. … We have the dubious distinction of being the deadliest species in the annals of biology. Perhaps if more people were aware of the First Wave and Second Wave extinctions, they'd be less nonchalant about the Third Wave they are part of. If we knew how many species we've already eradicated, we might be more motivated to protect those that still survive." (p 74).
 
 "Among all the world's large creatures, the only survivors of the human flood will be humans themselves, and the farmyard animals that serve as galley slaves in Noah's Ark." (p 74).    
 - What an amazing sentence! Wonderful double-entendre here, Harari. You begin the chapter entitled "The Flood" by talking about how humans crossed the sea to Australia, but here reveal the true flood of which you were speaking the whole time — the human flood across the world that eradicates and domesticates animals to their liking. Genius writing.
 
-I'm not going to engage with his writing in this post, rather I'll point out that I found myself often asking the question, "What's your motivation, Harari?" quite often. If all that he says is true, humanity is virtually an across-the-board blight on the face of the earth. Later on in the book (which you'll have to <a href="https://amzn.to/3bJjxiS" target="_blank">purchase</a>), Harari details more atrocities that modern man has committed against the world and himself. If so, does humanity need to exist anymore? Would it be better for the world that we don't? 
+I won't engage full-on with his writing in this post, but I will note I found myself often wondering about Harari's motivation to write. If all that he says is true, humanity is nothing more than a blight on the face of the earth. Later on in the book (which you'll have to <a href="https://amzn.to/3bJjxiS" target="_blank">purchase</a>), Harari details more atrocities that modern man has committed against the world and himself. If so, does humanity need to exist anymore? Would it be better for the world that we don't? 
 
 He himself has almost said as much in interviews. He remarks that he finds it odd that giant tech companies invite him to speak on the future of man-robot integration (which he devotes a whole chapter to) when all he says about man is gloom and doom.
 
