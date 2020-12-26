@@ -1,6 +1,6 @@
 "The motto of the reading Christian is a dazzling doxology: 'In Your light we see light.’ (Psalm 36:9)"
 
-The author, Tony Reinke, wants to give us a robust theology of reading. This is perfectly suited to the intent of this website, so lets look at the main strokes of each chapter together.
+The author, Tony Reinke, wants to give us a robust theology of reading. This is perfectly suited to <a href="https://danielsabbagh.com/blog/4/about" target="_blank">the intent of this website</a>, so lets look at the main strokes of each chapter together.
 <br>
 
 ## Chapter 1: Paper Pulp and Etched Granite: Laying the cornerstone of our theology of books
