@@ -17,8 +17,7 @@ We'll look at each stage to learn how we can make our next breakthrough happen.
 <br>
 
 ----
-### Stage One: _Launch_ 🚀
-<br>
+## Stage One: _Launch_ 🚀
 "In this first stage of the book, you'll learn how to harness the power of uncertainty, reason from first principles, ignite breakthroughs with thought experiments, and employ moonshot thinking to transform your life and business (p 15)." 
 
 In order to make progress in our pursuits, we need to accept that there's a lot we don't know. "Certainty blinds us to our own paralysis (p 25)." To shed the illusion of certainty and open our eyes to what we have yet to learn, we must accept and admit to ourselves that 'I don't know.' "When we utter those three dreaded words, our ego deflates, our mind opens, and our ears open up (p 27)." And once our ears are opened, we find it easier to see new things in this uncharted territory into which we've entered. 
@@ -40,9 +39,7 @@ But until that potential breakthrough comes to fruition, you're left with the un
 <br>
 
 ----
-### Stage Two: Accelerate 🏃
-
-<br>
+## Stage Two: Accelerate 🏃
 
 The second stage, _accelerate_, puts in motion the ideas you generated in the first stage.
 
@@ -71,9 +68,7 @@ Handling three approaches is more work than just the one, but a three-pronged ap
 <br>
 
 ----
-### Stage Three: Achieve 🙌
-
-<br>
+## Stage Three: Achieve 🙌
 
 In this last stage, which takes more of a retrospective tone, we'll learn why it is important to view success and failure with a balanced perspective. Varol teaches us both the benefit of failure, and the likely handicap of success.
 
