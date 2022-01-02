@@ -24,6 +24,6 @@ To round out this post, a bit about me:
 * I'm a professional human being
 * I'm a software engineer
 * I am a Christian, which will color my content in large strokes
-* I got married to the love of my life 126 days ago
+* I got married to the love of my life over a year ago
 
 You have made it to the end of this post. Thanks for reading, drop me an email to let me know what you think about the site. Don't forget to subscribe to receive future posts in your inbox!
