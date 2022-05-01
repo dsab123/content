@@ -13,7 +13,7 @@ But a book is usually a couple hundred pages long. How can you synthesize the a 
 
 You break it down.
 
-Structure is your friend in this effort. With structure and a bit of effort you can break the book down into understandable chunks.  Books are made of chapters, so it stands to reason that if you can learn to read one chapter of the book well, you’re well on your way to understanding the book as a whole. Note that we've already covered how to <a href=“evernote-and-tomatoes”>read the book as a whole unit</a>).
+Structure is your friend in this effort. With structure and a bit of effort you can break the book down into understandable chunks.  Books are made of chapters, so it stands to reason that if you can learn to read one chapter of the book well, you’re well on your way to understanding the book as a whole.
 
 So, let’s learn a reading strategy that will empower you to understand what you read, one chapter at a time.
 
