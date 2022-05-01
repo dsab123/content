@@ -1,4 +1,6 @@
-<div class="postImageContainer"><img src="/blogpost/person-in-blue-button-up-shirt-eating-cherry-tomatoes.jpg" class="wideNonMovingPostimage" alt="happy couple" title="mmm, tomatoes 🍅"></div>
+<div class="postImageContainer"><img src="/blogpost/person-in-blue-button-up-shirt-eating-cherry-tomatoes.jpg" class="wideNonMovingPostimage" alt="Denethor" title="mmm, tomatoes 🍅"></div>
+
+_This post is first in a series. You can read the next one <a href="/blog/22/how-to-read-one-chapter-of-a-book">here</a>._
 
 Do you want to read more this year? How are you going to do it? 
 
