@@ -64,3 +64,4 @@ The apostle John records another instance of the exclusive bent in Jesus’s tea
 I encourage you to read the chapter in full. Note that verse 39 is one of those 'all' verses, but is qualified by Jesus to "all that [the Father] has given [him]." Here, the 'all' is meant to emphasize the absolute safety of all who trust in Jesus, and does not indicate the number who are saved. It's a statement about the extent of Jesus's protection, not the scope. Matthew 22:1-14 is another passage of similar kind.
 
 I hope these thoughts are helpful. Let me know what you think!
+
